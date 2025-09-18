@@ -1,0 +1,78 @@
+[
+  {
+    "id": "70299",
+    "title": "Sliding Number Puzzle",
+    "category": "Puzzle",
+    "description": "Rearrange tiles to restore the correct order. A classic brain teaser built in HTML5.",
+    "instructions": "Mouse click or tap to move tiles.",
+    "playLink": "https://html5.gamemonetize.com/hzm4ilrkbvxv6bbtvycjitkgvqu4qyzk/",
+    "image": "https://img.gamemonetize.com/hzm4ilrkbvxv6bbtvycjitkgvqu4qyzk/512x384.jpg",
+    "thumbnail": "https://img.gamemonetize.com/hzm4ilrkbvxv6bbtvycjitkgvqu4qyzk/512x384.jpg",
+    "video": ""
+  },
+
+{
+  "id": "70597",
+  "title": "Rogue Runner",
+  "category": "Action",
+  "description": "Become the most wanted fugitive in a relentless, high-octane Rogue Runner simulator. Outsmart and outdrive an ever-growing police force in a dynamic open world. Your driving skills are the only thing between freedom and capture. Weave through dense urban traffic, execute dangerous maneuvers, and use the environment to your advantage. Every smashed barrier and near-miss intensifies the pursuit. Feel the adrenaline surge as SWAT teams join the hunt, deploying spike strips and tactical units. How long can you survive with the entire city's law enforcement on your tail? Push your vehicle to its limits, master the streets, and defy capture in",
+  "instructions": "Mouse click or tap to play",
+  "playLink": "https://html5.gamemonetize.com/0ofsn4w5u0lzffnmb1ed7d8ra7uj3wpv/",
+  "image": "https://img.gamemonetize.com/0ofsn4w5u0lzffnmb1ed7d8ra7uj3wpv/512x384.jpg",
+  "thumbnail": "https://img.gamemonetize.com/0ofsn4w5u0lzffnmb1ed7d8ra7uj3wpv/512x384.jpg",
+  "video": ""
+},
+
+{
+  "id": "cosmic-dash",
+  "title": "Cosmic Dash",
+  "category": "Action",
+  "description": "Blast through space in Cosmic Dash! Dodge obstacles, collect power-ups, and survive the endless galaxy in this fast-paced arcade adventure.",
+  "instructions": "Use arrow keys or swipe on mobile to move your ship. Avoid asteroids and enemies while collecting stars and bonuses.",
+  "tips": "Stay near the center for more reaction time. Collect shields and power-ups to increase survival chances.",
+  "faq": "Q: Can I play Cosmic Dash offline? A: No, you need an internet connection. Q: Does Cosmic Dash work on mobile? A: Yes, it’s mobile-friendly.",
+  "playLink": "https://html5.gamedistribution.com/4ddc9e3502334cfca08e06db4032f8ae/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/cosmic-dash.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/cosmic-dash.jpg",
+  "video": ""
+},
+{
+  "id": "carvivor-ops",
+  "title": "Carvivor Ops",
+  "category": "Action",
+  "description": "Jump into intense vehicular combat in Carvivor Ops! Drive, smash, and shoot your way through enemies while surviving chaotic battles.",
+  "instructions": "Use arrow keys or WASD to drive. Press Space or mouse button to shoot. Survive as long as you can against enemy waves.",
+  "tips": "Upgrade your vehicle whenever possible. Keep moving to avoid enemy fire and collect power-ups to gain an advantage.",
+  "faq": "Q: Is Carvivor Ops free to play? A: Yes, it’s completely free. Q: Can I play on mobile? A: Yes, it is mobile-friendly with touch controls.",
+  "playLink": "https://html5.gamedistribution.com/3793271659c74331a7c65a1a66718603/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/carvivor-ops.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/carvivor-ops.jpg",
+  "video": ""
+},
+{
+  "id": "labubu-jetpack",
+  "title": "Labubu Jetpack",
+  "category": "Action",
+  "description": "Fly with Labubu through exciting levels using a powerful jetpack. Avoid obstacles, collect coins, and aim for the highest score!",
+  "instructions": "Use spacebar, arrow keys, or touch to control the jetpack and guide Labubu through obstacles.",
+  "tips": "Stay near the middle of the screen for better reaction time. Collect power-ups whenever possible to boost your run.",
+  "faq": "Q: Is Labubu Jetpack free to play? A: Yes, it is completely free.\n\nQ: Can I play on mobile? A: Yes, it works smoothly on both desktop and mobile devices.",
+  "playLink": "https://html5.gamedistribution.com/6408783a54014b7688d5476f695fed8a/",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/labubu-jetpack.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/labubu-jetpack.jpg",
+  "video": ""
+},
+{
+  "id": "squid-game-hunter",
+  "title": "Squid Game Hunter",
+  "category": "Action",
+  "description": "Enter the deadly world of Squid Game as a skilled hunter! Track, survive, and eliminate targets in this intense action-packed challenge. Stay sharp and avoid getting caught.",
+  "instructions": "Use WASD or arrow keys to move. Use the mouse to aim and shoot. Collect ammo and health packs to survive longer.",
+  "tips": "Stay on the move to avoid enemy fire. Aim for headshots to take down opponents quickly. Save your ammo and use it wisely during tough waves.",
+  "thumb": "https://img.gamedistribution.com/80df807ffe8a4f41b30c2e647d3567e2-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/80df807ffe8a4f41b30c2e647d3567e2/?gd_sdk_referrer_url=https://www.example.com/games/squid-game-hunter"
+}
+
+
+  
+]

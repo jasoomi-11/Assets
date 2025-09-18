@@ -1,0 +1,133 @@
+[
+{
+  "id": "70586",
+  "title": "Tomb of the Mask Color Maze",
+  "category": "Maze",
+  "description": "Paint the entire maze while avoiding obstacles. Each level gets progressively harder.",
+  "instructions": "Use arrow keys, mouse or touch to play.",
+  "playLink": "https://html5.gamemonetize.com/01hkwxirzy9ur5zanr1nn38da9ui7fob/",
+  "image": "https://img.gamemonetize.com/01hkwxirzy9ur5zanr1nn38da9ui7fob/512x384.jpg",
+  "thumb": "https://img.gamemonetize.com/01hkwxirzy9ur5zanr1nn38da9ui7fob/512x384.jpg",
+  "video": ""
+},
+
+{
+  "id": "70372",
+  "title": "Space Stairwell",
+  "category": "Arcade",
+  "description": "Control a sphere and jump up endless rising platforms. Survive as long as possible and collect items to recharge energy.",
+  "instructions": "Tap or click platforms to jump. Use arrow keys to slide.",
+  "playLink": "https://html5.gamemonetize.com/c8d6ujnjwx4npxq1kx1vwoly2lw16j45/",
+  "image": "https://img.gamemonetize.com/c8d6ujnjwx4npxq1kx1vwoly2lw16j45/512x384.jpg",
+  "thumb": "https://img.gamemonetize.com/c8d6ujnjwx4npxq1kx1vwoly2lw16j45/512x384.jpg",
+  "video": ""
+},
+{
+  "id": "70548",
+  "title": "Gloomy Princess Favorite Toy",
+  "category": "Girls",
+  "description": "Create unique makeup, outfits and accessories for the Gloomy Princess and her teddy friend.",
+  "instructions": "Click or touch to play.",
+  "playLink": "https://html5.gamemonetize.com/ye86508jhpq8ujkvw2lns1hrdnnjo2s0/",
+  "image": "https://img.gamemonetize.com/ye86508jhpq8ujkvw2lns1hrdnnjo2s0/512x384.jpg",
+  "thumb": "https://img.gamemonetize.com/ye86508jhpq8ujkvw2lns1hrdnnjo2s0/512x384.jpg",
+  "video": ""
+},
+{
+  "id": "70664",
+  "title": "Superbrain",
+  "category": "Arcade",
+  "description": "Run forward and increase the brain in size, you will need it at the end to launch the monkey to another planet. Try to get the maximum brain size.",
+  "instructions": "Mouse click or tap to play",
+  "playLink": "https://html5.gamemonetize.com/s70c6wusr70i4grzeocugji5asw17eo0/",
+  "image": "https://img.gamemonetize.com/s70c6wusr70i4grzeocugji5asw17eo0/512x384.jpg",
+  "thumb": "https://img.gamemonetize.com/s70c6wusr70i4grzeocugji5asw17eo0/512x384.jpg",
+  "video": ""
+},
+
+
+
+{
+  "id": "evony-the-kings-return",
+  "title": "Evony: The King’s Return",
+  "category": "Strategy",
+  "description": "Command your kingdom, build and defend your empire, recruit heroes, and battle others in Evony: The King’s Return. An epic strategy MMO with real-time combat and alliances.",
+  "instructions": "Use touch or mouse to navigate. Build structures, train troops, recruit heroes, and engage in battles with game mechanics shown in-game.",
+  "tips": "Focus on upgrading your resource buildings early. Join or form an alliance so you get help and protection. Use heroes strategically to maximize strengths.",
+  "faq": "Q: Is Evony: The King’s Return free to play? A: Yes, it’s free with optional in-game purchases.\n\nQ: Can I play on mobile and desktop? A: Yes, it works on both as browser and app.",
+  "playLink": "https://html5.gamedistribution.com/70219cb4ed3443a1ae1d115d423b53e6/",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/evony-the-kings-return.jpg",
+  "video": ""
+},
+
+{
+  "id": "perfect-shot",
+  "title": "Perfect Shot",
+  "category": "Arcade",
+  "description": "Test your aiming skills in Perfect Shot! Time your throws precisely and hit the targets to advance through challenging levels.",
+  "instructions": "Tap or click to shoot. Aim carefully and release at the perfect moment to hit the target.",
+  "tips": "Wait for the right timing before shooting. Watch the target’s movement pattern to improve accuracy.",
+  "faq": "Q: Can I play Perfect Shot offline? A: No, it requires an internet connection. Q: Is the game mobile-friendly? A: Yes, it works smoothly on both desktop and mobile devices.",
+  "playlink": "https://html5.gamedistribution.com/05040a1c4bf5403b94241aff55439297/",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/perfect-shot.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/perfect-shot.jpg",
+  "video": ""
+},
+{
+  "id": "zombie-survival",
+  "title": "Zombie Survival",
+  "category": "Action",
+  "description": "Survive endless waves of zombies in this action-packed survival game. Test your reflexes and see how long you can last!",
+  "instructions": "Use arrow keys or WASD to move. Use mouse to aim and shoot. Collect power-ups to survive longer.",
+  "thumb": "https://img.gamedistribution.com/ea59d60a601041a28afcb6af3dde0bdd-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/ea59d60a601041a28afcb6af3dde0bdd/?gd_sdk_referrer_url=https://www.example.com/games/zombie-survival"
+},
+{
+  "id": "parking-fury-3d",
+  "title": "Parking Fury 3D",
+  "category": "Driving",
+  "description": "Parking Fury 3D challenges your precision and control as you navigate realistic city streets and tight parking spots. Avoid traffic, follow directions, and prove your parking skills!",
+  "instructions": "Use WASD or arrow keys to drive. Follow the arrows to reach the designated parking spot. Park your car without crashing into other vehicles or obstacles.",
+  "tips": "Take your time when turning into tight spaces. Use small adjustments instead of sharp turns. Watch traffic carefully to avoid collisions.",
+  "thumb": "https://img.gamedistribution.com/13d99dac275842e1a64a13332962fbd1-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/13d99dac275842e1a64a13332962fbd1/?gd_sdk_referrer_url=https://www.example.com/games/parking-fury-3d"
+},
+{
+  "id": "draw-climber",
+  "title": "Draw Climber",
+  "category": "Arcade",
+  "description": "Draw Climber is a fun and creative arcade game where you draw legs for your cube character to help it climb obstacles, run faster, and overcome tricky levels!",
+  "instructions": "Use your mouse or finger to draw legs for the cube. The shape you draw will determine how it moves. Adapt quickly to different obstacles to reach the finish line.",
+  "tips": "Draw long legs to climb tall walls. Use short legs for speed on flat ground. Experiment with different shapes to handle tricky terrain.",
+  "thumb": "https://img.gamedistribution.com/f3471828433f4cafab9b5d64aa4ef6ae-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/f3471828433f4cafab9b5d64aa4ef6ae/?gd_sdk_referrer_url=https://www.example.com/games/draw-climber"
+},
+{
+  "id": "long-nails",
+  "title": "Long Nails",
+  "category": "Hypercasual",
+  "description": "Grow your nails as long as possible while collecting resources on the field. Avoid obstacles and reach the finish line to claim your reward!",
+  "instructions": "Move left and right using your mouse or by tapping the screen to collect items and grow your nails.",
+  "tips": "Avoid sharp obstacles—they can cut your nails and lower your score.",
+  "thumb": "https://img.gamemonetize.com/s2yckj9jz9wtna63yxw2vf7wvlwgjd9a/512x384.jpg",
+  "playLink": "https://html5.gamemonetize.com/s2yckj9jz9wtna63yxw2vf7wvlwgjd9a/"
+},
+{
+  "id": "pinball-basketball",
+  "title": "Pinball Basketball",
+  "category": "Sports",
+  "description": "Enjoy the perfect mix of pinball mechanics and basketball fun! Launch the ball, hit the bumpers, and score baskets to earn points.",
+  "instructions": "Use the flippers (arrow keys or tap controls) to keep the ball in play and aim for the basketball hoop.",
+  "tips": "Control your flippers carefully—timing your shots will give you higher scores.",
+  "thumb": "https://img.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8/"
+}
+
+
+
+
+
+
+
+
+]

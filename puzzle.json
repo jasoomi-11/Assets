@@ -1,0 +1,82 @@
+[
+{
+  "id": "70521",
+  "title": "Candy Match Deluxe",
+  "category": "Puzzle",
+  "description": "Match colorful candies in rows or columns to clear levels. Unlock boosters and complete challenging puzzles.",
+  "instructions": "Swap candies with mouse or touch to make matches of 3 or more.",
+  "playLink": "https://html5.gamemonetize.com/f7g3y2m0d5r8v4x2j6p9n1kq8h5c2b0w/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/candydelux.jpg",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/candydelux.jpg",
+  "video": ""
+},
+{
+  "id": "pull-the-pin",
+  "title": "Pull The Pin",
+  "category": "Puzzle",
+  "description": "Solve tricky puzzles by pulling the pins in the right order. Free the balls and guide them safely into the container while avoiding traps.",
+  "instructions": "Use your mouse or tap on pins to pull them. Think carefully before each move!",
+  "playLink": "https://html5.gamedistribution.com/a44a7eaafa0d4cfc90e75064c370b335/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/pull-the-pin.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/pull-the-pin.jpg",
+  "video": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/video/pull-the-pin.mp4"
+},
+{
+  "id": "pop-puzzle",
+  "title": "Pop Puzzle",
+  "category": "Puzzle",
+  "description": "A fun and addictive puzzle game where you pop matching objects and clear levels with strategy and speed.",
+  "instructions": "Click or tap to pop matching items. Match as many as possible to earn high scores.",
+  "tips": "Focus on creating bigger matches to trigger combos and earn bonus points. Try to clear the board with fewer moves.",
+  "faq": "Q: Is Pop Puzzle free to play? A: Yes, it is completely free. Q: Can I play on mobile? A: Yes, it works on both desktop and mobile browsers.",
+  "playLink": "https://html5.gamedistribution.com/01b3aa0941514408804ca0d2e2fc5fd0/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/pop-puzzle.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/pop-puzzle.jpg",
+  "video": ""
+},
+{
+  "id": "cat-escape",
+  "title": "Cat Escape",
+  "category": "Puzzle",
+  "description": "Help the sneaky cat escape from tricky levels by avoiding guards, traps, and obstacles. Outsmart everyone and find your way out!",
+  "instructions": "Use your mouse or touch controls to guide the cat. Avoid guards and obstacles while reaching the exit safely.",
+  "tips": "Stay patient and plan your moves carefully. Look for patterns in guard movement and use distractions to your advantage.",
+  "faq": "Q: Is Cat Escape free to play? A: Yes, it's free. Q: Can I play Cat Escape on mobile? A: Yes, it works on both desktop and mobile devices.",
+  "playLink": "https://html5.gamedistribution.com/f5102c3fe6934e4d94e1146b33a273a1/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/cat-escape.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/cat-escape.jpg",
+  "video": ""
+},
+{
+  "id": "wood-color-block",
+  "title": "Wood Color Block",
+  "category": "Puzzle",
+  "description": "Wood Color Block is a relaxing puzzle game where you fit wooden block pieces into the grid. Match the right shapes and colors to clear lines and score high!",
+  "instructions": "Drag and drop the wooden blocks into the grid. Complete rows or columns to clear them. Plan ahead to avoid running out of space.",
+  "tips": "Focus on keeping space open in the middle of the board. Try to save smaller pieces for tight spaces. Clearing multiple rows at once will give you higher scores.",
+  "thumb": "https://img.gamedistribution.com/81129d4c62274aa6b5e1a0e86bd538c4-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/81129d4c62274aa6b5e1a0e86bd538c4/?gd_sdk_referrer_url=https://www.example.com/games/wood-color-block"
+},
+{
+  "id": "emergency-jam",
+  "title": "Emergency Jam",
+  "category": "Puzzle",
+  "description": "Emergency Jam is a traffic puzzle game where you must clear the road by guiding cars out of the jam. Solve tricky levels, think fast, and keep the traffic moving!",
+  "instructions": "Click or tap on the vehicles to move them. Clear a path to let the emergency vehicle pass through. Solve each level with as few moves as possible.",
+  "tips": "Focus on moving larger vehicles first to open up more space. Plan several moves ahead. Try to complete levels in the least number of steps for higher rewards.",
+  "thumb": "https://img.gamedistribution.com/de39260e780f439daa9d9573a4723519-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/de39260e780f439daa9d9573a4723519/?gd_sdk_referrer_url=https://www.example.com/games/emergency-jam"
+},
+{
+  "id": "mosaic-master",
+  "title": "Mosaic Master",
+  "category": "Puzzle",
+  "description": "Unleash your creativity and sharpen your mind in Mosaic Master, a relaxing yet challenging puzzle game where every shape finds its perfect place.",
+  "instructions": "Drag and drop colorful geometric pieces into the patterns until the mosaic is complete.",
+  "tips": "Start with the largest or most unique shapes first, then fill in the smaller gaps.",
+  "thumb": "https://img.gamemonetize.com/32huepcj4fmn0h55mpxme5boehkasb8b/512x384.jpg",
+  "playLink": "https://html5.gamemonetize.com/32huepcj4fmn0h55mpxme5boehkasb8b/"
+}
+
+
+]

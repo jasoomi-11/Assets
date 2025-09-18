@@ -1,0 +1,69 @@
+[
+  
+  
+  {
+  "id": "giant-crowd-house",
+  "title": "Giant Crowd House",
+  "category": "Arcade",
+  "description": "Lead your giant crowd through the house, gather more followers, and avoid obstacles to become unstoppable!",
+  "instructions": "Swipe or use arrow keys to control the crowd and collect more people while dodging traps.",
+  "tips": "Plan your moves ahead—bigger crowds can overcome tougher challenges.",
+  "thumb": "https://img.gamedistribution.com/36b51a1ce2bc489092af4b0f5a02a850-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/36b51a1ce2bc489092af4b0f5a02a850/"
+    
+    
+},
+{
+  "id": "summer-maze",
+  "title": "Summer Maze",
+  "category": "Puzzle",
+  "description": "Guide the ball through tricky summer-themed mazes. Avoid dead ends and find the fastest way to the goal!",
+  "instructions": "Use arrow keys or swipe on the screen to move the ball through the maze.",
+  "tips": "Plan your route ahead—shortcuts can save you time and help you finish faster.",
+  "thumb": "https://img.gamedistribution.com/4116c1e824a34658b25666a013a035f3-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/4116c1e824a34658b25666a013a035f3/"
+},
+{
+  "id": "hide-ball",
+  "title": "Hide Ball",
+  "category": "Puzzle",
+  "description": "Test your brain skills in Hide Ball! Place objects smartly to hide the ball and solve tricky levels.",
+  "instructions": "Use your mouse or finger to place objects on the screen. Make sure the ball is hidden before the timer ends.",
+  "tips": "Think creatively—sometimes the simplest solution is the best one.",
+  "thumb": "https://img.gamedistribution.com/4563680ee85c4a4c8d89744bbb6cff27-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/4563680ee85c4a4c8d89744bbb6cff27/"
+},
+{
+  "id": "merge-3d-match-the-balloon",
+  "title": "Merge 3D - Match the Balloon",
+  "category": "Puzzle",
+  "description": "Match and merge colorful balloons in 3D! Clear the board by finding pairs and enjoy a relaxing yet challenging puzzle experience.",
+  "instructions": "Tap or click on matching balloons to merge them until the board is cleared.",
+  "tips": "Focus on the balloons at the top first to avoid blocking your moves.",
+  "thumb": "https://img.gamedistribution.com/c9fe92846b064b4d96d42be3c30ff79e-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/c9fe92846b064b4d96d42be3c30ff79e/"
+},
+{
+  "id": "block-legend",
+  "title": "Block Legend",
+  "category": "Puzzle",
+  "description": "Test your brain with Block Legend! Place and match colorful blocks to clear lines and score big points in this addictive puzzle game.",
+  "instructions": "Drag and drop blocks on the grid to complete rows or columns and clear them.",
+  "tips": "Leave space for larger blocks — smart planning will keep you in the game longer.",
+  "thumb": "https://img.gamedistribution.com/907ea4d6623941b0bbb5e437e4f7d5cf-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/907ea4d6623941b0bbb5e437e4f7d5cf/"
+},
+{
+  "id": "match-duck",
+  "title": "Match Duck",
+  "category": "Puzzle",
+  "description": "A fun and colorful puzzle game where you match cute ducks to clear the board. Relaxing gameplay with adorable graphics!",
+  "instructions": "Tap or click to swap and match ducks of the same type to remove them from the board.",
+  "tips": "Focus on creating combos for higher scores and faster level completion.",
+  "thumb": "https://img.gamedistribution.com/35e1ca81ddb84e73879bb7671e8902ad-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/35e1ca81ddb84e73879bb7671e8902ad/"
+}
+
+
+
+]

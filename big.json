@@ -1,0 +1,42 @@
+[
+{
+  "id": "farm-business-saga",
+  "title": "Farm Business Saga",
+  "category": "Strategy",
+  "description": "Build and grow your own farm empire in Farm Business Saga! Plant crops, raise animals, and expand your farm to become the ultimate farming tycoon.",
+  "instructions": "Use mouse or touch to plant, harvest, and manage your farm resources. Expand wisely to maximize profits.",
+  "tips": "Invest in upgrades early—automation will help your farm grow faster.",
+  "thumb": "https://img.gamedistribution.com/9547692496ca45bb8e01e655e9121bdd-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/9547692496ca45bb8e01e655e9121bdd/"
+},
+{
+  "id": "dynamons-12",
+  "title": "Dynamons 12",
+  "category": "Adventure",
+  "description": "Join the exciting world of Dynamons once again in Dynamons 12! Train your creatures, battle rivals, and discover new adventures in this monster-catching series.",
+  "instructions": "Use mouse or touch to select moves, battle enemies, and capture new Dynamons to expand your team.",
+  "tips": "Build a balanced team—different Dynamons have unique strengths and weaknesses.",
+  "thumb": "https://img.gamedistribution.com/9fe4c58c9f3649798bf5cb13d6dff219-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/9fe4c58c9f3649798bf5cb13d6dff219/"
+},
+{
+  "id": "airport-simulator",
+  "title": "Airport Simulator",
+  "category": "Simulation",
+  "description": "Manage a busy airport by directing planes, handling passengers, and ensuring everything runs smoothly. Keep the operations efficient to avoid delays.",
+  "instructions": "Use mouse or touch to interact with planes and facilities. Complete missions and expand your airport.",
+  "tips": "Prioritize critical flights, upgrade facilities regularly, and balance passenger flow for maximum efficiency.",
+  "thumb": "https://img.gamedistribution.com/2d43ef876d8a4f698d5da80c2c6b8954-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/2d43ef876d8a4f698d5da80c2c6b8954/"
+},
+{
+  "id": "flight-sim-air-traffic",
+  "title": "Flight Sim: Air Traffic",
+  "category": "Simulation",
+  "description": "Step into the role of an air traffic controller! Manage incoming and outgoing flights, prevent collisions, and keep the skies safe in this realistic simulation.",
+  "instructions": "Use mouse or touch to guide planes, assign runways, and control traffic. Ensure safe landings and departures.",
+  "tips": "Keep an eye on flight paths, avoid crossing routes, and handle priority flights first to maintain smooth operations.",
+  "thumb": "https://img.gamedistribution.com/597826c7d8aa45bfba877cc4c05a4d5c-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/597826c7d8aa45bfba877cc4c05a4d5c/"
+}
+]

@@ -1,0 +1,44 @@
+[
+  
+{
+  "id": "vikings",
+  "title": "Vikings",
+  "category": "Action",
+  "description": "Step into the world of the Vikings! Battle enemies, raid villages, and conquer lands in this action-packed adventure game. Show your strength and claim glory for your tribe.",
+  "instructions": "Use arrow keys or WASD to move your Viking warrior. Press the attack key or tap controls to strike enemies. Collect loot and complete raids to progress.",
+  "tips": "Upgrade your weapons and armor to gain an advantage in battles. Time your attacks carefully against stronger enemies. Explore every corner to discover hidden treasures.",
+  "thumb": "https://img.gamedistribution.com/df8a3f16d8f546b8b607dfa38d856478-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/df8a3f16d8f546b8b607dfa38d856478/?gd_sdk_referrer_url=https://www.example.com/games/vikings"
+},
+{
+  "id": "fruitslands",
+  "title": "Fruitslands",
+  "category": "Puzzle",
+  "description": "Fruitslands is a fun and colorful puzzle adventure where you match and collect fruits to clear levels. Explore fruity worlds and complete challenging stages full of surprises.",
+  "instructions": "Use your mouse or tap to swap and match fruits. Align three or more identical fruits to clear them from the board. Complete objectives before you run out of moves.",
+  "tips": "Focus on creating combos for higher scores. Match special fruits to trigger powerful effects. Plan moves ahead to complete tough levels efficiently.",
+  "thumb": "https://img.gamedistribution.com/78028efd6f3f42568f88cb90ab29c4a5-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/78028efd6f3f42568f88cb90ab29c4a5/?gd_sdk_referrer_url=https://www.example.com/games/fruitslands"
+},
+{
+  "id": "the-road-home",
+  "title": "The Road Home",
+  "category": "Adventure",
+  "description": "The Road Home is an emotional adventure game where you guide a character through challenges and obstacles on their journey back home. Experience a heartwarming story filled with choices and surprises.",
+  "instructions": "Use arrow keys or WASD to move. Interact with objects and characters using the space bar or tap controls. Solve puzzles and complete tasks to progress through each stage.",
+  "tips": "Pay attention to clues in the environment to solve puzzles. Talk to characters to unlock hidden paths. Take your time exploring, as every choice impacts the journey.",
+  "thumb": "https://img.gamedistribution.com/1ca550a66423424c98c39fcc8cd57ff0-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/1ca550a66423424c98c39fcc8cd57ff0/?gd_sdk_referrer_url=https://www.example.com/games/the-road-home"
+},
+{
+  "id": "cut-the-rope",
+  "title": "Cut The Rope",
+  "category": "Puzzle",
+  "description": "Join Om Nom in the legendary Cut the Rope series! Solve fun logic puzzles by cutting ropes to feed candy to your adorable monster friend. Challenge millions of players worldwide in this addictive puzzle adventure.",
+  "instructions": "Slide your finger (or use the mouse) to cut the rope and deliver candy to Om Nom.",
+  "tips": "Think ahead before cutting ropes. Use gravity and physics cleverly to collect stars while feeding Om Nom.",
+  "thumb": "https://img.gamemonetize.com/0po1nwk3ebjwjsatsj4bpjzceeh72n83/512x384.jpg",
+  "playLink": "https://html5.gamemonetize.com/0po1nwk3ebjwjsatsj4bpjzceeh72n83/"
+}
+  
+]

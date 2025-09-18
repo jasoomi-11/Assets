@@ -1,0 +1,53 @@
+[
+{
+  "id": "uncle-hit-punch-dummy",
+  "title": "Uncle Hit: Punch Dummy",
+  "category": "Action",
+  "description": "Uncle Hit: Punch Dummy is a funny action game where you release stress by punching, kicking, and smashing a dummy in different ways. Experiment with moves and combos for endless fun!",
+  "instructions": "Use your mouse or touch to hit, drag, and throw the dummy. Try different attacks and moves to cause maximum damage. Unlock new actions as you play.",
+  "tips": "Aim for combos to deal more damage. Use the environment creatively to smash the dummy. Keep experimenting with different actions to discover hidden tricks.",
+  "thumb": "https://img.gamedistribution.com/e3c98c62b82749a7b0b5d5de77a9ef8e-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/e3c98c62b82749a7b0b5d5de77a9ef8e/?gd_sdk_referrer_url=https://www.example.com/games/uncle-hit-punch-dummy"
+},
+{
+  "id": "virtual-families-cook-off",
+  "title": "Virtual Families: Cook Off",
+  "category": "Cooking",
+  "description": "Compete in fast-paced, family-friendly cooking challenges. Prepare dishes, manage orders, and upgrade your kitchen to become the top cook in town!",
+  "instructions": "Use mouse or touch to select ingredients, chop, cook, and plate dishes. Follow order icons and serve on time. Upgrade appliances between rounds to speed up cooking.",
+  "tips": "Prioritize orders with timers first. Keep similar dishes grouped to save time. Upgrade the oven or stove early to handle multiple orders at once. Use prep time to pre-chop ingredients for busy rounds.",
+  "thumb": "assets/thumb/virtual.jpg",
+  "url": "https://html5.gamedistribution.com/9bf2e82f7c684bdcb0a8f4fa3ec0ecd6/?gd_sdk_referrer_url=https://www.example.com/games/virtual-families-cook-off"
+},
+
+{
+  "id": "eternal-fury",
+  "title": "Eternal Fury",
+  "category": "RPG",
+  "description": "Eternal Fury is an epic RPG that combines strategy, fantasy, and adventure. Recruit heroes, build your army, and battle powerful enemies across a vast world of magic and war.",
+  "instructions": "Use your mouse or touch to navigate menus, select heroes, and command battles. Upgrade your characters and equipment to progress through tougher challenges.",
+  "tips": "Focus on upgrading your strongest heroes first. Balance your team with both attackers and defenders. Complete daily quests for extra rewards and faster progression.",
+  "thumb": "assets/thumb/eternal.jpg",
+  "url": "https://html5.gamedistribution.com/6f6471ecbc2447d29aa1173e591448e3/?gd_sdk_referrer_url=https://www.example.com/games/eternal-fury"
+},
+{
+  "id": "dinamons",
+  "title": "Dinamons",
+  "category": "Adventure",
+  "description": "Enter the world of Dinamons! Train and battle unique creatures, explore new lands, and become the ultimate Dinamon master.",
+  "instructions": "Use your mouse or touch to select moves during battles, explore maps, and capture new Dinamons.",
+  "tips": "Choose your attacks wisely—different Dinamons have unique strengths and weaknesses.",
+  "thumb": "https://img.gamedistribution.com/200443b8a09a402ea935508e948f04fb-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/200443b8a09a402ea935508e948f04fb/"
+},
+{
+  "id": "dead-zone-mech-ops",
+  "title": "Dead Zone: Mech Ops",
+  "category": "Action",
+  "description": "Enter the Dead Zone as a powerful mech pilot! Battle enemies, complete missions, and upgrade your war machine to dominate the battlefield.",
+  "instructions": "Use WASD or arrow keys to move, mouse to aim and shoot. Complete objectives to progress through missions.",
+  "tips": "Upgrade your mech’s weapons and armor to survive tougher battles. Keep moving to avoid heavy enemy fire.",
+  "thumb": "https://img.gamedistribution.com/b20ef15d895d4ebc840f64a3f70ba12b-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/b20ef15d895d4ebc840f64a3f70ba12b/"
+}
+]

@@ -1,0 +1,670 @@
+[
+  {
+    "id": "70299",
+    "title": "Sliding Number Puzzle",
+    "category": "Puzzle",
+    "description": "Rearrange tiles to restore the correct order. A classic brain teaser built in HTML5.",
+    "instructions": "Mouse click or tap to move tiles.",
+    "playLink": "https://html5.gamemonetize.com/hzm4ilrkbvxv6bbtvycjitkgvqu4qyzk/",
+    "image": "https://img.gamemonetize.com/hzm4ilrkbvxv6bbtvycjitkgvqu4qyzk/512x384.jpg",
+    "thumbnail": "https://img.gamemonetize.com/hzm4ilrkbvxv6bbtvycjitkgvqu4qyzk/512x384.jpg",
+    "video": ""
+  },
+
+{
+  "id": "70597",
+  "title": "Rogue Runner",
+  "category": "Action",
+  "description": "Become the most wanted fugitive in a relentless, high-octane Rogue Runner simulator. Outsmart and outdrive an ever-growing police force in a dynamic open world. Your driving skills are the only thing between freedom and capture. Weave through dense urban traffic, execute dangerous maneuvers, and use the environment to your advantage. Every smashed barrier and near-miss intensifies the pursuit. Feel the adrenaline surge as SWAT teams join the hunt, deploying spike strips and tactical units. How long can you survive with the entire city's law enforcement on your tail? Push your vehicle to its limits, master the streets, and defy capture in",
+  "instructions": "Mouse click or tap to play",
+  "playLink": "https://html5.gamemonetize.com/0ofsn4w5u0lzffnmb1ed7d8ra7uj3wpv/",
+  "image": "https://img.gamemonetize.com/0ofsn4w5u0lzffnmb1ed7d8ra7uj3wpv/512x384.jpg",
+  "thumbnail": "https://img.gamemonetize.com/0ofsn4w5u0lzffnmb1ed7d8ra7uj3wpv/512x384.jpg",
+  "video": ""
+},
+
+{
+  "id": "cosmic-dash",
+  "title": "Cosmic Dash",
+  "category": "Action",
+  "description": "Blast through space in Cosmic Dash! Dodge obstacles, collect power-ups, and survive the endless galaxy in this fast-paced arcade adventure.",
+  "instructions": "Use arrow keys or swipe on mobile to move your ship. Avoid asteroids and enemies while collecting stars and bonuses.",
+  "tips": "Stay near the center for more reaction time. Collect shields and power-ups to increase survival chances.",
+  "faq": "Q: Can I play Cosmic Dash offline? A: No, you need an internet connection. Q: Does Cosmic Dash work on mobile? A: Yes, it’s mobile-friendly.",
+  "playLink": "https://html5.gamedistribution.com/4ddc9e3502334cfca08e06db4032f8ae/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/cosmic-dash.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/cosmic-dash.jpg",
+  "video": ""
+},
+{
+  "id": "carvivor-ops",
+  "title": "Carvivor Ops",
+  "category": "Action",
+  "description": "Jump into intense vehicular combat in Carvivor Ops! Drive, smash, and shoot your way through enemies while surviving chaotic battles.",
+  "instructions": "Use arrow keys or WASD to drive. Press Space or mouse button to shoot. Survive as long as you can against enemy waves.",
+  "tips": "Upgrade your vehicle whenever possible. Keep moving to avoid enemy fire and collect power-ups to gain an advantage.",
+  "faq": "Q: Is Carvivor Ops free to play? A: Yes, it’s completely free. Q: Can I play on mobile? A: Yes, it is mobile-friendly with touch controls.",
+  "playLink": "https://html5.gamedistribution.com/3793271659c74331a7c65a1a66718603/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/carvivor-ops.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/carvivor-ops.jpg",
+  "video": ""
+},
+{
+  "id": "labubu-jetpack",
+  "title": "Labubu Jetpack",
+  "category": "Action",
+  "description": "Fly with Labubu through exciting levels using a powerful jetpack. Avoid obstacles, collect coins, and aim for the highest score!",
+  "instructions": "Use spacebar, arrow keys, or touch to control the jetpack and guide Labubu through obstacles.",
+  "tips": "Stay near the middle of the screen for better reaction time. Collect power-ups whenever possible to boost your run.",
+  "faq": "Q: Is Labubu Jetpack free to play? A: Yes, it is completely free.\n\nQ: Can I play on mobile? A: Yes, it works smoothly on both desktop and mobile devices.",
+  "playLink": "https://html5.gamedistribution.com/6408783a54014b7688d5476f695fed8a/",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/labubu-jetpack.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/labubu-jetpack.jpg",
+  "video": ""
+},
+{
+  "id": "squid-game-hunter",
+  "title": "Squid Game Hunter",
+  "category": "Action",
+  "description": "Enter the deadly world of Squid Game as a skilled hunter! Track, survive, and eliminate targets in this intense action-packed challenge. Stay sharp and avoid getting caught.",
+  "instructions": "Use WASD or arrow keys to move. Use the mouse to aim and shoot. Collect ammo and health packs to survive longer.",
+  "tips": "Stay on the move to avoid enemy fire. Aim for headshots to take down opponents quickly. Save your ammo and use it wisely during tough waves.",
+  "thumb": "https://img.gamedistribution.com/80df807ffe8a4f41b30c2e647d3567e2-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/80df807ffe8a4f41b30c2e647d3567e2/?gd_sdk_referrer_url=https://www.example.com/games/squid-game-hunter"
+},
+
+  
+  
+  {
+  "id": "stickman-gunner",
+  "title": "Stickman Gunner",
+  "category": "Action",
+  "description": "Run through levels with your gun blazing! Stickman Gunner challenges you to blast obstacles, dodge enemies, and shoot down foes as you push forward.",
+  "instructions": "Use swipe or arrow keys to move, tap/click to shoot. Keep running while eliminating threats ahead.",
+  "tips": "Aim ahead, manage ammo, and keep moving—standing still gets you in trouble.",
+  "thumb": "https://img.gamedistribution.com/<stickman-gunner-thumb-placeholder>.jpg",
+  "playLink": "https://html5.gamedistribution.com/<stickman-gunner-game-id>/"
+},
+
+  
+  
+  
+  {
+  "id": "school-boy-runaway",
+  "title": "School Boy Runaway",
+  "category": "Adventure",
+  "description": "Help the school boy escape from trouble! Run through obstacles, dodge dangers, and keep moving forward to stay safe.",
+  "instructions": "Use arrow keys or tap controls to jump, slide, and avoid obstacles while running.",
+  "tips": "Keep an eye ahead—timing your jumps is the key to survival.",
+  "thumb": "https://img.gamedistribution.com/75a3a423df984e27a3fbf1deb13b8e5c-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/75a3a423df984e27a3fbf1deb13b8e5c/"
+},
+
+{
+  "id": "farm-business-saga",
+  "title": "Farm Business Saga",
+  "category": "Strategy",
+  "description": "Build and grow your own farm empire in Farm Business Saga! Plant crops, raise animals, and expand your farm to become the ultimate farming tycoon.",
+  "instructions": "Use mouse or touch to plant, harvest, and manage your farm resources. Expand wisely to maximize profits.",
+  "tips": "Invest in upgrades early—automation will help your farm grow faster.",
+  "thumb": "https://img.gamedistribution.com/9547692496ca45bb8e01e655e9121bdd-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/9547692496ca45bb8e01e655e9121bdd/"
+},
+{
+  "id": "dynamons-12",
+  "title": "Dynamons 12",
+  "category": "Adventure",
+  "description": "Join the exciting world of Dynamons once again in Dynamons 12! Train your creatures, battle rivals, and discover new adventures in this monster-catching series.",
+  "instructions": "Use mouse or touch to select moves, battle enemies, and capture new Dynamons to expand your team.",
+  "tips": "Build a balanced team—different Dynamons have unique strengths and weaknesses.",
+  "thumb": "https://img.gamedistribution.com/9fe4c58c9f3649798bf5cb13d6dff219-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/9fe4c58c9f3649798bf5cb13d6dff219/"
+},
+{
+  "id": "airport-simulator",
+  "title": "Airport Simulator",
+  "category": "Simulation",
+  "description": "Manage a busy airport by directing planes, handling passengers, and ensuring everything runs smoothly. Keep the operations efficient to avoid delays.",
+  "instructions": "Use mouse or touch to interact with planes and facilities. Complete missions and expand your airport.",
+  "tips": "Prioritize critical flights, upgrade facilities regularly, and balance passenger flow for maximum efficiency.",
+  "thumb": "https://img.gamedistribution.com/2d43ef876d8a4f698d5da80c2c6b8954-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/2d43ef876d8a4f698d5da80c2c6b8954/"
+},
+{
+  "id": "flight-sim-air-traffic",
+  "title": "Flight Sim: Air Traffic",
+  "category": "Simulation",
+  "description": "Step into the role of an air traffic controller! Manage incoming and outgoing flights, prevent collisions, and keep the skies safe in this realistic simulation.",
+  "instructions": "Use mouse or touch to guide planes, assign runways, and control traffic. Ensure safe landings and departures.",
+  "tips": "Keep an eye on flight paths, avoid crossing routes, and handle priority flights first to maintain smooth operations.",
+  "thumb": "https://img.gamedistribution.com/597826c7d8aa45bfba877cc4c05a4d5c-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/597826c7d8aa45bfba877cc4c05a4d5c/"
+},
+
+{
+  "id": "uncle-hit-punch-dummy",
+  "title": "Uncle Hit: Punch Dummy",
+  "category": "Action",
+  "description": "Uncle Hit: Punch Dummy is a funny action game where you release stress by punching, kicking, and smashing a dummy in different ways. Experiment with moves and combos for endless fun!",
+  "instructions": "Use your mouse or touch to hit, drag, and throw the dummy. Try different attacks and moves to cause maximum damage. Unlock new actions as you play.",
+  "tips": "Aim for combos to deal more damage. Use the environment creatively to smash the dummy. Keep experimenting with different actions to discover hidden tricks.",
+  "thumb": "https://img.gamedistribution.com/e3c98c62b82749a7b0b5d5de77a9ef8e-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/e3c98c62b82749a7b0b5d5de77a9ef8e/?gd_sdk_referrer_url=https://www.example.com/games/uncle-hit-punch-dummy"
+},
+{
+  "id": "virtual-families-cook-off",
+  "title": "Virtual Families: Cook Off",
+  "category": "Cooking",
+  "description": "Compete in fast-paced, family-friendly cooking challenges. Prepare dishes, manage orders, and upgrade your kitchen to become the top cook in town!",
+  "instructions": "Use mouse or touch to select ingredients, chop, cook, and plate dishes. Follow order icons and serve on time. Upgrade appliances between rounds to speed up cooking.",
+  "tips": "Prioritize orders with timers first. Keep similar dishes grouped to save time. Upgrade the oven or stove early to handle multiple orders at once. Use prep time to pre-chop ingredients for busy rounds.",
+  "thumb": "assets/thumb/virtual.jpg",
+  "url": "https://html5.gamedistribution.com/9bf2e82f7c684bdcb0a8f4fa3ec0ecd6/?gd_sdk_referrer_url=https://www.example.com/games/virtual-families-cook-off"
+},
+
+{
+  "id": "eternal-fury",
+  "title": "Eternal Fury",
+  "category": "RPG",
+  "description": "Eternal Fury is an epic RPG that combines strategy, fantasy, and adventure. Recruit heroes, build your army, and battle powerful enemies across a vast world of magic and war.",
+  "instructions": "Use your mouse or touch to navigate menus, select heroes, and command battles. Upgrade your characters and equipment to progress through tougher challenges.",
+  "tips": "Focus on upgrading your strongest heroes first. Balance your team with both attackers and defenders. Complete daily quests for extra rewards and faster progression.",
+  "thumb": "assets/thumb/eternal.jpg",
+  "url": "https://html5.gamedistribution.com/6f6471ecbc2447d29aa1173e591448e3/?gd_sdk_referrer_url=https://www.example.com/games/eternal-fury"
+},
+{
+  "id": "dinamons",
+  "title": "Dinamons",
+  "category": "Adventure",
+  "description": "Enter the world of Dinamons! Train and battle unique creatures, explore new lands, and become the ultimate Dinamon master.",
+  "instructions": "Use your mouse or touch to select moves during battles, explore maps, and capture new Dinamons.",
+  "tips": "Choose your attacks wisely—different Dinamons have unique strengths and weaknesses.",
+  "thumb": "https://img.gamedistribution.com/200443b8a09a402ea935508e948f04fb-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/200443b8a09a402ea935508e948f04fb/"
+},
+{
+  "id": "dead-zone-mech-ops",
+  "title": "Dead Zone: Mech Ops",
+  "category": "Action",
+  "description": "Enter the Dead Zone as a powerful mech pilot! Battle enemies, complete missions, and upgrade your war machine to dominate the battlefield.",
+  "instructions": "Use WASD or arrow keys to move, mouse to aim and shoot. Complete objectives to progress through missions.",
+  "tips": "Upgrade your mech’s weapons and armor to survive tougher battles. Keep moving to avoid heavy enemy fire.",
+  "thumb": "https://img.gamedistribution.com/b20ef15d895d4ebc840f64a3f70ba12b-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/b20ef15d895d4ebc840f64a3f70ba12b/"
+},
+
+  
+{
+  "id": "vikings",
+  "title": "Vikings",
+  "category": "Action",
+  "description": "Step into the world of the Vikings! Battle enemies, raid villages, and conquer lands in this action-packed adventure game. Show your strength and claim glory for your tribe.",
+  "instructions": "Use arrow keys or WASD to move your Viking warrior. Press the attack key or tap controls to strike enemies. Collect loot and complete raids to progress.",
+  "tips": "Upgrade your weapons and armor to gain an advantage in battles. Time your attacks carefully against stronger enemies. Explore every corner to discover hidden treasures.",
+  "thumb": "https://img.gamedistribution.com/df8a3f16d8f546b8b607dfa38d856478-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/df8a3f16d8f546b8b607dfa38d856478/?gd_sdk_referrer_url=https://www.example.com/games/vikings"
+},
+{
+  "id": "fruitslands",
+  "title": "Fruitslands",
+  "category": "Puzzle",
+  "description": "Fruitslands is a fun and colorful puzzle adventure where you match and collect fruits to clear levels. Explore fruity worlds and complete challenging stages full of surprises.",
+  "instructions": "Use your mouse or tap to swap and match fruits. Align three or more identical fruits to clear them from the board. Complete objectives before you run out of moves.",
+  "tips": "Focus on creating combos for higher scores. Match special fruits to trigger powerful effects. Plan moves ahead to complete tough levels efficiently.",
+  "thumb": "https://img.gamedistribution.com/78028efd6f3f42568f88cb90ab29c4a5-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/78028efd6f3f42568f88cb90ab29c4a5/?gd_sdk_referrer_url=https://www.example.com/games/fruitslands"
+},
+{
+  "id": "the-road-home",
+  "title": "The Road Home",
+  "category": "Adventure",
+  "description": "The Road Home is an emotional adventure game where you guide a character through challenges and obstacles on their journey back home. Experience a heartwarming story filled with choices and surprises.",
+  "instructions": "Use arrow keys or WASD to move. Interact with objects and characters using the space bar or tap controls. Solve puzzles and complete tasks to progress through each stage.",
+  "tips": "Pay attention to clues in the environment to solve puzzles. Talk to characters to unlock hidden paths. Take your time exploring, as every choice impacts the journey.",
+  "thumb": "https://img.gamedistribution.com/1ca550a66423424c98c39fcc8cd57ff0-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/1ca550a66423424c98c39fcc8cd57ff0/?gd_sdk_referrer_url=https://www.example.com/games/the-road-home"
+},
+{
+  "id": "cut-the-rope",
+  "title": "Cut The Rope",
+  "category": "Puzzle",
+  "description": "Join Om Nom in the legendary Cut the Rope series! Solve fun logic puzzles by cutting ropes to feed candy to your adorable monster friend. Challenge millions of players worldwide in this addictive puzzle adventure.",
+  "instructions": "Slide your finger (or use the mouse) to cut the rope and deliver candy to Om Nom.",
+  "tips": "Think ahead before cutting ropes. Use gravity and physics cleverly to collect stars while feeding Om Nom.",
+  "thumb": "https://img.gamemonetize.com/0po1nwk3ebjwjsatsj4bpjzceeh72n83/512x384.jpg",
+  "playLink": "https://html5.gamemonetize.com/0po1nwk3ebjwjsatsj4bpjzceeh72n83/"
+},
+
+  
+  
+  {
+  "id": "giant-crowd-house",
+  "title": "Giant Crowd House",
+  "category": "Arcade",
+  "description": "Lead your giant crowd through the house, gather more followers, and avoid obstacles to become unstoppable!",
+  "instructions": "Swipe or use arrow keys to control the crowd and collect more people while dodging traps.",
+  "tips": "Plan your moves ahead—bigger crowds can overcome tougher challenges.",
+  "thumb": "https://img.gamedistribution.com/36b51a1ce2bc489092af4b0f5a02a850-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/36b51a1ce2bc489092af4b0f5a02a850/"
+    
+    
+},
+{
+  "id": "summer-maze",
+  "title": "Summer Maze",
+  "category": "Puzzle",
+  "description": "Guide the ball through tricky summer-themed mazes. Avoid dead ends and find the fastest way to the goal!",
+  "instructions": "Use arrow keys or swipe on the screen to move the ball through the maze.",
+  "tips": "Plan your route ahead—shortcuts can save you time and help you finish faster.",
+  "thumb": "https://img.gamedistribution.com/4116c1e824a34658b25666a013a035f3-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/4116c1e824a34658b25666a013a035f3/"
+},
+{
+  "id": "hide-ball",
+  "title": "Hide Ball",
+  "category": "Puzzle",
+  "description": "Test your brain skills in Hide Ball! Place objects smartly to hide the ball and solve tricky levels.",
+  "instructions": "Use your mouse or finger to place objects on the screen. Make sure the ball is hidden before the timer ends.",
+  "tips": "Think creatively—sometimes the simplest solution is the best one.",
+  "thumb": "https://img.gamedistribution.com/4563680ee85c4a4c8d89744bbb6cff27-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/4563680ee85c4a4c8d89744bbb6cff27/"
+},
+{
+  "id": "merge-3d-match-the-balloon",
+  "title": "Merge 3D - Match the Balloon",
+  "category": "Puzzle",
+  "description": "Match and merge colorful balloons in 3D! Clear the board by finding pairs and enjoy a relaxing yet challenging puzzle experience.",
+  "instructions": "Tap or click on matching balloons to merge them until the board is cleared.",
+  "tips": "Focus on the balloons at the top first to avoid blocking your moves.",
+  "thumb": "https://img.gamedistribution.com/c9fe92846b064b4d96d42be3c30ff79e-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/c9fe92846b064b4d96d42be3c30ff79e/"
+},
+{
+  "id": "block-legend",
+  "title": "Block Legend",
+  "category": "Puzzle",
+  "description": "Test your brain with Block Legend! Place and match colorful blocks to clear lines and score big points in this addictive puzzle game.",
+  "instructions": "Drag and drop blocks on the grid to complete rows or columns and clear them.",
+  "tips": "Leave space for larger blocks — smart planning will keep you in the game longer.",
+  "thumb": "https://img.gamedistribution.com/907ea4d6623941b0bbb5e437e4f7d5cf-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/907ea4d6623941b0bbb5e437e4f7d5cf/"
+},
+{
+  "id": "match-duck",
+  "title": "Match Duck",
+  "category": "Puzzle",
+  "description": "A fun and colorful puzzle game where you match cute ducks to clear the board. Relaxing gameplay with adorable graphics!",
+  "instructions": "Tap or click to swap and match ducks of the same type to remove them from the board.",
+  "tips": "Focus on creating combos for higher scores and faster level completion.",
+  "thumb": "https://img.gamedistribution.com/35e1ca81ddb84e73879bb7671e8902ad-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/35e1ca81ddb84e73879bb7671e8902ad/"
+},
+
+  {
+  "id": "ship-factory-tycoon",
+  "title": "Ship Factory Tycoon",
+  "category": "Strategy",
+  "description": "Build and manage your own ship factory! Expand production, upgrade machines, and grow your tycoon empire in Ship Factory Tycoon.",
+  "instructions": "Click or tap to manage resources, upgrade production lines, and expand your ship factory business.",
+  "tips": "Invest profits smartly in upgrades to increase efficiency and maximize growth.",
+  "thumb": "https://img.gamedistribution.com/93f85d34f6eb42b69635222703a94abd-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/93f85d34f6eb42b69635222703a94abd/"
+},
+
+{
+  "id": "70521",
+  "title": "Candy Match Deluxe",
+  "category": "Puzzle",
+  "description": "Match colorful candies in rows or columns to clear levels. Unlock boosters and complete challenging puzzles.",
+  "instructions": "Swap candies with mouse or touch to make matches of 3 or more.",
+  "playLink": "https://html5.gamemonetize.com/f7g3y2m0d5r8v4x2j6p9n1kq8h5c2b0w/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/candydelux.jpg",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/candydelux.jpg",
+  "video": ""
+},
+{
+  "id": "pull-the-pin",
+  "title": "Pull The Pin",
+  "category": "Puzzle",
+  "description": "Solve tricky puzzles by pulling the pins in the right order. Free the balls and guide them safely into the container while avoiding traps.",
+  "instructions": "Use your mouse or tap on pins to pull them. Think carefully before each move!",
+  "playLink": "https://html5.gamedistribution.com/a44a7eaafa0d4cfc90e75064c370b335/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/pull-the-pin.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/pull-the-pin.jpg",
+  "video": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/video/pull-the-pin.mp4"
+},
+{
+  "id": "pop-puzzle",
+  "title": "Pop Puzzle",
+  "category": "Puzzle",
+  "description": "A fun and addictive puzzle game where you pop matching objects and clear levels with strategy and speed.",
+  "instructions": "Click or tap to pop matching items. Match as many as possible to earn high scores.",
+  "tips": "Focus on creating bigger matches to trigger combos and earn bonus points. Try to clear the board with fewer moves.",
+  "faq": "Q: Is Pop Puzzle free to play? A: Yes, it is completely free. Q: Can I play on mobile? A: Yes, it works on both desktop and mobile browsers.",
+  "playLink": "https://html5.gamedistribution.com/01b3aa0941514408804ca0d2e2fc5fd0/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/pop-puzzle.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/pop-puzzle.jpg",
+  "video": ""
+},
+{
+  "id": "cat-escape",
+  "title": "Cat Escape",
+  "category": "Puzzle",
+  "description": "Help the sneaky cat escape from tricky levels by avoiding guards, traps, and obstacles. Outsmart everyone and find your way out!",
+  "instructions": "Use your mouse or touch controls to guide the cat. Avoid guards and obstacles while reaching the exit safely.",
+  "tips": "Stay patient and plan your moves carefully. Look for patterns in guard movement and use distractions to your advantage.",
+  "faq": "Q: Is Cat Escape free to play? A: Yes, it's free. Q: Can I play Cat Escape on mobile? A: Yes, it works on both desktop and mobile devices.",
+  "playLink": "https://html5.gamedistribution.com/f5102c3fe6934e4d94e1146b33a273a1/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/cat-escape.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/cat-escape.jpg",
+  "video": ""
+},
+{
+  "id": "wood-color-block",
+  "title": "Wood Color Block",
+  "category": "Puzzle",
+  "description": "Wood Color Block is a relaxing puzzle game where you fit wooden block pieces into the grid. Match the right shapes and colors to clear lines and score high!",
+  "instructions": "Drag and drop the wooden blocks into the grid. Complete rows or columns to clear them. Plan ahead to avoid running out of space.",
+  "tips": "Focus on keeping space open in the middle of the board. Try to save smaller pieces for tight spaces. Clearing multiple rows at once will give you higher scores.",
+  "thumb": "https://img.gamedistribution.com/81129d4c62274aa6b5e1a0e86bd538c4-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/81129d4c62274aa6b5e1a0e86bd538c4/?gd_sdk_referrer_url=https://www.example.com/games/wood-color-block"
+},
+{
+  "id": "emergency-jam",
+  "title": "Emergency Jam",
+  "category": "Puzzle",
+  "description": "Emergency Jam is a traffic puzzle game where you must clear the road by guiding cars out of the jam. Solve tricky levels, think fast, and keep the traffic moving!",
+  "instructions": "Click or tap on the vehicles to move them. Clear a path to let the emergency vehicle pass through. Solve each level with as few moves as possible.",
+  "tips": "Focus on moving larger vehicles first to open up more space. Plan several moves ahead. Try to complete levels in the least number of steps for higher rewards.",
+  "thumb": "https://img.gamedistribution.com/de39260e780f439daa9d9573a4723519-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/de39260e780f439daa9d9573a4723519/?gd_sdk_referrer_url=https://www.example.com/games/emergency-jam"
+},
+{
+  "id": "mosaic-master",
+  "title": "Mosaic Master",
+  "category": "Puzzle",
+  "description": "Unleash your creativity and sharpen your mind in Mosaic Master, a relaxing yet challenging puzzle game where every shape finds its perfect place.",
+  "instructions": "Drag and drop colorful geometric pieces into the patterns until the mosaic is complete.",
+  "tips": "Start with the largest or most unique shapes first, then fill in the smaller gaps.",
+  "thumb": "https://img.gamemonetize.com/32huepcj4fmn0h55mpxme5boehkasb8b/512x384.jpg",
+  "playLink": "https://html5.gamemonetize.com/32huepcj4fmn0h55mpxme5boehkasb8b/"
+},
+
+
+{
+  "id": "snow-rider",
+  "title": "Snow Rider",
+  "category": "Racing",
+  "description": "Race down snowy slopes in Snow Rider! Dodge obstacles, collect gifts, and enjoy fast-paced winter fun.",
+  "instructions": "Use arrow keys or swipe to move left and right. Avoid obstacles and keep riding as far as possible.",
+  "playLink": "https://html5.gamedistribution.com/3b79a8537ebc414fb4f9672a9b8c68c8/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/snowrider.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/snowrider.jpg",
+  "video": ""
+},
+{
+  "id": "charger-city-driver",
+  "title": "Charger City Driver",
+  "category": "Racing",
+  "description": "Charger City Driver puts you behind the wheel of a powerful car in a bustling city. Drive freely, explore the streets, and test your driving skills with speed and precision.",
+  "instructions": "Use WASD or arrow keys to drive. Press Space to brake. Explore the city, drift around corners, and show off your driving skills.",
+  "tips": "Practice drifting for tighter turns. Explore shortcuts around the city to save time. Control your speed when driving through crowded areas.",
+  "thumb": "https://img.gamedistribution.com/3f0aec385266424bb0529dfcecfe30b4-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/3f0aec385266424bb0529dfcecfe30b4/?gd_sdk_referrer_url=https://www.example.com/games/charger-city-driver"
+},
+
+  
+  
+  {
+  "id": "crazy-stunt-3d",
+  "title": "Crazy Stunt 3D",
+  "category": "Racing",
+  "description": "Perform wild stunts and drive through challenging tracks in Crazy Stunt 3D. Show off your skills and conquer every ramp and obstacle!",
+  "instructions": "Use arrow keys or WASD to drive, and spacebar for brake. Balance your car while performing stunts.",
+  "tips": "Land your stunts smoothly to avoid crashing and earn higher scores.",
+  "thumb": "https://img.gamedistribution.com/7003f00653b24b0686c8d448eca7083b-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/7003f00653b24b0686c8d448eca7083b/"
+},
+  {
+  "id": "hexa-match",
+  "title": "Hexa Match",
+  "category": "Puzzle",
+  "description": "Match and connect colorful hexagon blocks to clear the board! A fun and addictive puzzle game that challenges your brain.",
+  "instructions": "Drag and place the hexagon blocks on the grid to make complete lines and clear them.",
+  "tips": "Try to plan your moves ahead—leaving space for bigger hexagons is the key to survival.",
+  "thumb": "https://img.gamedistribution.com/b0a9187ecbf943f2b59dfc5e91936d8f-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/b0a9187ecbf943f2b59dfc5e91936d8f/"
+},
+{
+  "id": "number-master-run",
+  "title": "Number Master Run",
+  "category": "Arcade",
+  "description": "Run through challenging tracks, collect numbers, and multiply your score to become the ultimate Number Master!",
+  "instructions": "Swipe or use arrow keys to move your character, collect numbers, and avoid obstacles.",
+  "tips": "Choose the higher multipliers to maximize your score and finish with the strongest number.",
+  "thumb": "https://img.gamedistribution.com/1f4b8984608644199ca748d3f1bc774b-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/1f4b8984608644199ca748d3f1bc774b/"
+},
+{
+  "id": "math-crossword",
+  "title": "Math Crossword",
+  "category": "Educational",
+  "description": "Sharpen your brain with Math Crossword! Solve equations and fill the crossword grid with the correct numbers.",
+  "instructions": "Click on the empty boxes and type the correct number that solves the equation.",
+  "tips": "Focus on easy equations first to unlock hints for the harder ones.",
+  "thumb": "https://img.gamedistribution.com/a9346f2d1aa048abb0ef2b236c20dd17-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/a9346f2d1aa048abb0ef2b236c20dd17/"
+},
+{
+  "id": "code-runner-binary-change",
+  "title": "Code Runner: Binary Change",
+  "category": "Educational",
+  "description": "Solve binary-based puzzles and manipulate bits to complete levels in Code Runner: Binary Change. Perfect for sharpening logical and coding skills.",
+  "instructions": "Use mouse or touch to select and flip bits, complete the target binary patterns, and advance to the next level.",
+  "tips": "Work from left to right and keep track of bit carries — small steps make complex patterns easier.",
+  "thumb": "https://img.gamedistribution.com/dac9b9cfefef453ea3d993000589cb61-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/dac9b9cfefef453ea3d993000589cb61/"
+},
+{
+  "id": "monster-worm",
+  "title": "Monster Worm",
+  "category": "Adventure",
+  "description": "Control a giant hungry worm and feed on soldiers, destroy airplanes, and cause chaos! Upgrade and level up your monster worm for even more destruction.",
+  "instructions": "Use arrow keys to move and guide your worm through the battlefield. Eat enemies and avoid heavy fire.",
+  "tips": "Upgrade speed and size early to maximize destruction. Keep moving to avoid being trapped by enemies.",
+  "thumb": "https://img.gamemonetize.com/cbvftdzfp4b9qq3wc6cpob3th5u93l1t/512x384.jpg",
+  "playLink": "https://html5.gamemonetize.com/cbvftdzfp4b9qq3wc6cpob3th5u93l1t/"
+},
+
+  {
+  "id": "draw-climb-race-ultimate-hill-climbing",
+  "title": "Draw Climb Race: Ultimate Hill Climbing",
+  "category": "Racing",
+  "description": "Draw your vehicle and race up steep hills in Draw Climb Race. Tackle rugged terrain, avoid obstacles, and reach the finish line as fast as you can!",
+  "instructions": "Draw the shape of your vehicle or parts, then use arrow keys or touch to drive and balance while climbing hills.",
+  "tips": "Keep your design balanced for better traction—a low center of gravity helps on steep climbs.",
+  "thumb": "https://img.gamedistribution.com/e8d1ff1a11cb4810948b2e81d51d350c-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/e8d1ff1a11cb4810948b2e81d51d350c/"
+},
+{
+  "id": "scary-teacher-3d",
+  "title": "Scary Teacher 3D",
+  "category": "Adventure",
+  "description": "Enter the creepy house of the scary teacher! Sneak around, complete pranks, and escape before she catches you in Scary Teacher 3D.",
+  "instructions": "Use keyboard or touch controls to move, interact with objects, and complete your prank missions without getting caught.",
+  "tips": "Stay quiet and avoid her sight. Plan your pranks smartly for maximum fun.",
+  "thumb": "https://img.gamedistribution.com/c75029d181cb49eaa606d0d72d5fc4a5-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/c75029d181cb49eaa606d0d72d5fc4a5/"
+},
+{
+  "id": "fly-this",
+  "title": "Fly This",
+  "category": "Arcade",
+  "description": "Take control of multiple planes and guide them safely to their destinations while avoiding collisions. Test your reflexes and strategic skills in Fly This!",
+  "instructions": "Draw flight paths using your mouse or touch to guide planes to the correct airports. Avoid mid-air collisions.",
+  "tips": "Plan ahead, manage multiple planes carefully, and adjust routes quickly to prevent crashes.",
+  "thumb": "https://img.gamedistribution.com/76c95100ef2f454ca158b48e5ea7c188-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/76c95100ef2f454ca158b48e5ea7c188/"
+},
+
+{
+  "id": "70495",
+  "title": "Bloons Battles",
+  "category": "Shooter",
+  "description": "Pop all the balloons while avoiding obstacles. Aim carefully and unlock all levels.",
+  "instructions": "Use mouse or touch to aim and shoot.",
+  "playLink": "https://html5.gamemonetize.com/ydihbdfz3qxevtauhuefdttmlgmxxzvo/",
+  "image": "https://img.gamemonetize.com/ydihbdfz3qxevtauhuefdttmlgmxxzvo/512x384.jpg",
+  "thumbnail": "https://img.gamemonetize.com/ydihbdfz3qxevtauhuefdttmlgmxxzvo/512x384.jpg",
+  "video": ""
+},
+{
+  "id": "cowboy-shooter-2",
+  "title": "Cowboy Shooter 2",
+  "category": "Shooting",
+  "description": "Step into the Wild West and test your aim in this fast-paced cowboy shooting game! Break bottles, hit targets, and score as high as possible before the clock runs out.",
+  "instructions": "PC: Move mouse to aim, Left Click to shoot. Mobile: Use on-screen buttons to aim and shoot.",
+  "tips": "Focus on accuracy before speed. Breaking combo targets gives you extra score.",
+  "thumb": "https://img.gamemonetize.com/jc2acrnxxo170e3q4gaovsvhle6dt7wj/512x384.jpg",
+  "playLink": "https://html5.gamemonetize.com/jc2acrnxxo170e3q4gaovsvhle6dt7wj/"
+},
+
+{
+  "id": "billiard-diamond",
+  "title": "Billiard Diamond",
+  "category": "Sports",
+  "description": "Challenge your skills in Billiard Diamond! Line up your shots, use precision, and sink all the balls to become the pool master.",
+  "instructions": "Use your mouse or touch to aim and drag to set the power. Release to shoot the cue ball.",
+  "tips": "Plan your shots ahead. Use the table edges for trick shots. Control your power for better accuracy.",
+  "faq": "Q: Can I play Billiard Diamond with friends? A: Currently, it's a single-player game. Q: Does it work on mobile? A: Yes, it's optimized for both desktop and mobile.",
+  "playLink": "https://html5.gamedistribution.com/d915f03f46804091933c3be8d17273be/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/billiard-diamond.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/billiard-diamond.jpg",
+  "video": ""
+},
+
+{
+  "id": "70586",
+  "title": "Tomb of the Mask Color Maze",
+  "category": "Maze",
+  "description": "Paint the entire maze while avoiding obstacles. Each level gets progressively harder.",
+  "instructions": "Use arrow keys, mouse or touch to play.",
+  "playLink": "https://html5.gamemonetize.com/01hkwxirzy9ur5zanr1nn38da9ui7fob/",
+  "image": "https://img.gamemonetize.com/01hkwxirzy9ur5zanr1nn38da9ui7fob/512x384.jpg",
+  "thumb": "https://img.gamemonetize.com/01hkwxirzy9ur5zanr1nn38da9ui7fob/512x384.jpg",
+  "video": ""
+},
+
+{
+  "id": "70372",
+  "title": "Space Stairwell",
+  "category": "Arcade",
+  "description": "Control a sphere and jump up endless rising platforms. Survive as long as possible and collect items to recharge energy.",
+  "instructions": "Tap or click platforms to jump. Use arrow keys to slide.",
+  "playLink": "https://html5.gamemonetize.com/c8d6ujnjwx4npxq1kx1vwoly2lw16j45/",
+  "image": "https://img.gamemonetize.com/c8d6ujnjwx4npxq1kx1vwoly2lw16j45/512x384.jpg",
+  "thumb": "https://img.gamemonetize.com/c8d6ujnjwx4npxq1kx1vwoly2lw16j45/512x384.jpg",
+  "video": ""
+},
+{
+  "id": "70548",
+  "title": "Gloomy Princess Favorite Toy",
+  "category": "Girls",
+  "description": "Create unique makeup, outfits and accessories for the Gloomy Princess and her teddy friend.",
+  "instructions": "Click or touch to play.",
+  "playLink": "https://html5.gamemonetize.com/ye86508jhpq8ujkvw2lns1hrdnnjo2s0/",
+  "image": "https://img.gamemonetize.com/ye86508jhpq8ujkvw2lns1hrdnnjo2s0/512x384.jpg",
+  "thumb": "https://img.gamemonetize.com/ye86508jhpq8ujkvw2lns1hrdnnjo2s0/512x384.jpg",
+  "video": ""
+},
+{
+  "id": "70664",
+  "title": "Superbrain",
+  "category": "Arcade",
+  "description": "Run forward and increase the brain in size, you will need it at the end to launch the monkey to another planet. Try to get the maximum brain size.",
+  "instructions": "Mouse click or tap to play",
+  "playLink": "https://html5.gamemonetize.com/s70c6wusr70i4grzeocugji5asw17eo0/",
+  "image": "https://img.gamemonetize.com/s70c6wusr70i4grzeocugji5asw17eo0/512x384.jpg",
+  "thumb": "https://img.gamemonetize.com/s70c6wusr70i4grzeocugji5asw17eo0/512x384.jpg",
+  "video": ""
+},
+
+
+
+{
+  "id": "evony-the-kings-return",
+  "title": "Evony: The King’s Return",
+  "category": "Strategy",
+  "description": "Command your kingdom, build and defend your empire, recruit heroes, and battle others in Evony: The King’s Return. An epic strategy MMO with real-time combat and alliances.",
+  "instructions": "Use touch or mouse to navigate. Build structures, train troops, recruit heroes, and engage in battles with game mechanics shown in-game.",
+  "tips": "Focus on upgrading your resource buildings early. Join or form an alliance so you get help and protection. Use heroes strategically to maximize strengths.",
+  "faq": "Q: Is Evony: The King’s Return free to play? A: Yes, it’s free with optional in-game purchases.\n\nQ: Can I play on mobile and desktop? A: Yes, it works on both as browser and app.",
+  "playLink": "https://html5.gamedistribution.com/70219cb4ed3443a1ae1d115d423b53e6/",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/evony-the-kings-return.jpg",
+  "video": ""
+},
+
+{
+  "id": "perfect-shot",
+  "title": "Perfect Shot",
+  "category": "Arcade",
+  "description": "Test your aiming skills in Perfect Shot! Time your throws precisely and hit the targets to advance through challenging levels.",
+  "instructions": "Tap or click to shoot. Aim carefully and release at the perfect moment to hit the target.",
+  "tips": "Wait for the right timing before shooting. Watch the target’s movement pattern to improve accuracy.",
+  "faq": "Q: Can I play Perfect Shot offline? A: No, it requires an internet connection. Q: Is the game mobile-friendly? A: Yes, it works smoothly on both desktop and mobile devices.",
+  "playlink": "https://html5.gamedistribution.com/05040a1c4bf5403b94241aff55439297/",
+  "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/perfect-shot.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/perfect-shot.jpg",
+  "video": ""
+},
+{
+  "id": "zombie-survival",
+  "title": "Zombie Survival",
+  "category": "Action",
+  "description": "Survive endless waves of zombies in this action-packed survival game. Test your reflexes and see how long you can last!",
+  "instructions": "Use arrow keys or WASD to move. Use mouse to aim and shoot. Collect power-ups to survive longer.",
+  "thumb": "https://img.gamedistribution.com/ea59d60a601041a28afcb6af3dde0bdd-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/ea59d60a601041a28afcb6af3dde0bdd/?gd_sdk_referrer_url=https://www.example.com/games/zombie-survival"
+},
+{
+  "id": "parking-fury-3d",
+  "title": "Parking Fury 3D",
+  "category": "Driving",
+  "description": "Parking Fury 3D challenges your precision and control as you navigate realistic city streets and tight parking spots. Avoid traffic, follow directions, and prove your parking skills!",
+  "instructions": "Use WASD or arrow keys to drive. Follow the arrows to reach the designated parking spot. Park your car without crashing into other vehicles or obstacles.",
+  "tips": "Take your time when turning into tight spaces. Use small adjustments instead of sharp turns. Watch traffic carefully to avoid collisions.",
+  "thumb": "https://img.gamedistribution.com/13d99dac275842e1a64a13332962fbd1-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/13d99dac275842e1a64a13332962fbd1/?gd_sdk_referrer_url=https://www.example.com/games/parking-fury-3d"
+},
+{
+  "id": "draw-climber",
+  "title": "Draw Climber",
+  "category": "Arcade",
+  "description": "Draw Climber is a fun and creative arcade game where you draw legs for your cube character to help it climb obstacles, run faster, and overcome tricky levels!",
+  "instructions": "Use your mouse or finger to draw legs for the cube. The shape you draw will determine how it moves. Adapt quickly to different obstacles to reach the finish line.",
+  "tips": "Draw long legs to climb tall walls. Use short legs for speed on flat ground. Experiment with different shapes to handle tricky terrain.",
+  "thumb": "https://img.gamedistribution.com/f3471828433f4cafab9b5d64aa4ef6ae-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/f3471828433f4cafab9b5d64aa4ef6ae/?gd_sdk_referrer_url=https://www.example.com/games/draw-climber"
+},
+{
+  "id": "long-nails",
+  "title": "Long Nails",
+  "category": "Hypercasual",
+  "description": "Grow your nails as long as possible while collecting resources on the field. Avoid obstacles and reach the finish line to claim your reward!",
+  "instructions": "Move left and right using your mouse or by tapping the screen to collect items and grow your nails.",
+  "tips": "Avoid sharp obstacles—they can cut your nails and lower your score.",
+  "thumb": "https://img.gamemonetize.com/s2yckj9jz9wtna63yxw2vf7wvlwgjd9a/512x384.jpg",
+  "playLink": "https://html5.gamemonetize.com/s2yckj9jz9wtna63yxw2vf7wvlwgjd9a/"
+},
+{
+  "id": "pinball-basketball",
+  "title": "Pinball Basketball",
+  "category": "Sports",
+  "description": "Enjoy the perfect mix of pinball mechanics and basketball fun! Launch the ball, hit the bumpers, and score baskets to earn points.",
+  "instructions": "Use the flippers (arrow keys or tap controls) to keep the ball in play and aim for the basketball hoop.",
+  "tips": "Control your flippers carefully—timing your shots will give you higher scores.",
+  "thumb": "https://img.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8-512x384.jpg",
+  "playLink": "https://html5.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8/"
+}
+
+]

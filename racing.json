@@ -1,0 +1,27 @@
+[
+
+{
+  "id": "snow-rider",
+  "title": "Snow Rider",
+  "category": "Racing",
+  "description": "Race down snowy slopes in Snow Rider! Dodge obstacles, collect gifts, and enjoy fast-paced winter fun.",
+  "instructions": "Use arrow keys or swipe to move left and right. Avoid obstacles and keep riding as far as possible.",
+  "playLink": "https://html5.gamedistribution.com/3b79a8537ebc414fb4f9672a9b8c68c8/",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/snowrider.jpg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/snowrider.jpg",
+  "video": ""
+},
+{
+  "id": "charger-city-driver",
+  "title": "Charger City Driver",
+  "category": "Racing",
+  "description": "Charger City Driver puts you behind the wheel of a powerful car in a bustling city. Drive freely, explore the streets, and test your driving skills with speed and precision.",
+  "instructions": "Use WASD or arrow keys to drive. Press Space to brake. Explore the city, drift around corners, and show off your driving skills.",
+  "tips": "Practice drifting for tighter turns. Explore shortcuts around the city to save time. Control your speed when driving through crowded areas.",
+  "thumb": "https://img.gamedistribution.com/3f0aec385266424bb0529dfcecfe30b4-512x384.jpg",
+  "url": "https://html5.gamedistribution.com/3f0aec385266424bb0529dfcecfe30b4/?gd_sdk_referrer_url=https://www.example.com/games/charger-city-driver"
+}
+
+
+
+]
