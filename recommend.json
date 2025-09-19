@@ -1,56 +1,57 @@
 [
-  
-  
   {
-  "id": "hexa-match",
-  "title": "Hexa Match",
-  "category": "Puzzle",
-  "description": "Match and connect colorful hexagon blocks to clear the board! A fun and addictive puzzle game that challenges your brain.",
-  "instructions": "Drag and place the hexagon blocks on the grid to make complete lines and clear them.",
-  "tips": "Try to plan your moves ahead—leaving space for bigger hexagons is the key to survival.",
-  "thumb": "https://img.gamedistribution.com/b0a9187ecbf943f2b59dfc5e91936d8f-512x384.jpg",
-  "playLink": "https://html5.gamedistribution.com/b0a9187ecbf943f2b59dfc5e91936d8f/"
-},
-{
-  "id": "number-master-run",
-  "title": "Number Master Run",
-  "category": "Arcade",
-  "description": "Run through challenging tracks, collect numbers, and multiply your score to become the ultimate Number Master!",
-  "instructions": "Swipe or use arrow keys to move your character, collect numbers, and avoid obstacles.",
-  "tips": "Choose the higher multipliers to maximize your score and finish with the strongest number.",
-  "thumb": "https://img.gamedistribution.com/1f4b8984608644199ca748d3f1bc774b-512x384.jpg",
-  "playLink": "https://html5.gamedistribution.com/1f4b8984608644199ca748d3f1bc774b/"
-},
-{
-  "id": "math-crossword",
-  "title": "Math Crossword",
-  "category": "Educational",
-  "description": "Sharpen your brain with Math Crossword! Solve equations and fill the crossword grid with the correct numbers.",
-  "instructions": "Click on the empty boxes and type the correct number that solves the equation.",
-  "tips": "Focus on easy equations first to unlock hints for the harder ones.",
-  "thumb": "https://img.gamedistribution.com/a9346f2d1aa048abb0ef2b236c20dd17-512x384.jpg",
-  "playLink": "https://html5.gamedistribution.com/a9346f2d1aa048abb0ef2b236c20dd17/"
-},
-{
-  "id": "code-runner-binary-change",
-  "title": "Code Runner: Binary Change",
-  "category": "Educational",
-  "description": "Solve binary-based puzzles and manipulate bits to complete levels in Code Runner: Binary Change. Perfect for sharpening logical and coding skills.",
-  "instructions": "Use mouse or touch to select and flip bits, complete the target binary patterns, and advance to the next level.",
-  "tips": "Work from left to right and keep track of bit carries — small steps make complex patterns easier.",
-  "thumb": "https://img.gamedistribution.com/dac9b9cfefef453ea3d993000589cb61-512x384.jpg",
-  "playLink": "https://html5.gamedistribution.com/dac9b9cfefef453ea3d993000589cb61/"
-},
-{
-  "id": "monster-worm",
-  "title": "Monster Worm",
-  "category": "Adventure",
-  "description": "Control a giant hungry worm and feed on soldiers, destroy airplanes, and cause chaos! Upgrade and level up your monster worm for even more destruction.",
-  "instructions": "Use arrow keys to move and guide your worm through the battlefield. Eat enemies and avoid heavy fire.",
-  "tips": "Upgrade speed and size early to maximize destruction. Keep moving to avoid being trapped by enemies.",
-  "thumb": "https://img.gamemonetize.com/cbvftdzfp4b9qq3wc6cpob3th5u93l1t/512x384.jpg",
-  "playLink": "https://html5.gamemonetize.com/cbvftdzfp4b9qq3wc6cpob3th5u93l1t/"
-}
-
-
+    "slug": "hexa-match",
+    "id": "hexa-match",
+    "title": "Hexa Match",
+    "category": "Puzzle",
+    "description": "Match and connect colorful hexagon blocks to clear the board! A fun and addictive puzzle game that challenges your brain.",
+    "instructions": "Drag and place the hexagon blocks on the grid to make complete lines and clear them.",
+    "tips": "Try to plan your moves ahead—leaving space for bigger hexagons is the key to survival.",
+    "thumb": "https://img.gamedistribution.com/b0a9187ecbf943f2b59dfc5e91936d8f-512x384.jpg",
+    "playLink": "https://html5.gamedistribution.com/b0a9187ecbf943f2b59dfc5e91936d8f/"
+  },
+  {
+    "slug": "number-master-run",
+    "id": "number-master-run",
+    "title": "Number Master Run",
+    "category": "Arcade",
+    "description": "Run through challenging tracks, collect numbers, and multiply your score to become the ultimate Number Master!",
+    "instructions": "Swipe or use arrow keys to move your character, collect numbers, and avoid obstacles.",
+    "tips": "Choose the higher multipliers to maximize your score and finish with the strongest number.",
+    "thumb": "https://img.gamedistribution.com/1f4b8984608644199ca748d3f1bc774b-512x384.jpg",
+    "playLink": "https://html5.gamedistribution.com/1f4b8984608644199ca748d3f1bc774b/"
+  },
+  {
+    "slug": "math-crossword",
+    "id": "math-crossword",
+    "title": "Math Crossword",
+    "category": "Educational",
+    "description": "Sharpen your brain with Math Crossword! Solve equations and fill the crossword grid with the correct numbers.",
+    "instructions": "Click on the empty boxes and type the correct number that solves the equation.",
+    "tips": "Focus on easy equations first to unlock hints for the harder ones.",
+    "thumb": "https://img.gamedistribution.com/a9346f2d1aa048abb0ef2b236c20dd17-512x384.jpg",
+    "playLink": "https://html5.gamedistribution.com/a9346f2d1aa048abb0ef2b236c20dd17/"
+  },
+  {
+    "slug": "code-runner-binary-change",
+    "id": "code-runner-binary-change",
+    "title": "Code Runner: Binary Change",
+    "category": "Educational",
+    "description": "Solve binary-based puzzles and manipulate bits to complete levels in Code Runner: Binary Change. Perfect for sharpening logical and coding skills.",
+    "instructions": "Use mouse or touch to select and flip bits, complete the target binary patterns, and advance to the next level.",
+    "tips": "Work from left to right and keep track of bit carries — small steps make complex patterns easier.",
+    "thumb": "https://img.gamedistribution.com/dac9b9cfefef453ea3d993000589cb61-512x384.jpg",
+    "playLink": "https://html5.gamedistribution.com/dac9b9cfefef453ea3d993000589cb61/"
+  },
+  {
+    "slug": "monster-worm",
+    "id": "monster-worm",
+    "title": "Monster Worm",
+    "category": "Adventure",
+    "description": "Control a giant hungry worm and feed on soldiers, destroy airplanes, and cause chaos! Upgrade and level up your monster worm for even more destruction.",
+    "instructions": "Use arrow keys to move and guide your worm through the battlefield. Eat enemies and avoid heavy fire.",
+    "tips": "Upgrade speed and size early to maximize destruction. Keep moving to avoid being trapped by enemies.",
+    "thumb": "https://img.gamemonetize.com/cbvftdzfp4b9qq3wc6cpob3th5u93l1t/512x384.jpg",
+    "playLink": "https://html5.gamemonetize.com/cbvftdzfp4b9qq3wc6cpob3th5u93l1t/"
+  }
 ]

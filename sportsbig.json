@@ -1,15 +1,13 @@
 [
-  
-  
-  
   {
-  "id": "pinball-basketball",
-  "title": "Pinball Basketball",
-  "category": "Sports",
-  "description": "Enjoy the perfect mix of pinball mechanics and basketball fun! Launch the ball, hit the bumpers, and score baskets to earn points.",
-  "instructions": "Use the flippers (arrow keys or tap controls) to keep the ball in play and aim for the basketball hoop.",
-  "tips": "Control your flippers carefully—timing your shots will give you higher scores.",
-  "thumb": "https://img.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8-512x384.jpg",
-  "playLink": "https://html5.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8/"
-}
+    "slug": "pinball-basketball",
+    "id": "pinball-basketball",
+    "title": "Pinball Basketball",
+    "category": "Sports",
+    "description": "Enjoy the perfect mix of pinball mechanics and basketball fun! Launch the ball, hit the bumpers, and score baskets to earn points.",
+    "instructions": "Use the flippers (arrow keys or tap controls) to keep the ball in play and aim for the basketball hoop.",
+    "tips": "Control your flippers carefully—timing your shots will give you higher scores.",
+    "thumb": "https://img.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8-512x384.jpg",
+    "playLink": "https://html5.gamedistribution.com/ce51ec5132e640b0bae06b129d14bef8/"
+  }
 ]

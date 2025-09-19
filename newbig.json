@@ -1,12 +1,13 @@
 [
   {
-  "id": "ship-factory-tycoon",
-  "title": "Ship Factory Tycoon",
-  "category": "Strategy",
-  "description": "Build and manage your own ship factory! Expand production, upgrade machines, and grow your tycoon empire in Ship Factory Tycoon.",
-  "instructions": "Click or tap to manage resources, upgrade production lines, and expand your ship factory business.",
-  "tips": "Invest profits smartly in upgrades to increase efficiency and maximize growth.",
-  "thumb": "https://img.gamedistribution.com/93f85d34f6eb42b69635222703a94abd-512x384.jpg",
-  "playLink": "https://html5.gamedistribution.com/93f85d34f6eb42b69635222703a94abd/"
-}
+    "id": "ship-factory-tycoon",
+    "slug": "ship-factory-tycoon",
+    "title": "Ship Factory Tycoon",
+    "category": "Strategy",
+    "description": "Build and manage your own ship factory! Expand production, upgrade machines, and grow your tycoon empire in Ship Factory Tycoon.",
+    "instructions": "Click or tap to manage resources, upgrade production lines, and expand your ship factory business.",
+    "tips": "Invest profits smartly in upgrades to increase efficiency and maximize growth.",
+    "thumb": "https://img.gamedistribution.com/93f85d34f6eb42b69635222703a94abd-512x384.jpg",
+    "playLink": "https://html5.gamedistribution.com/93f85d34f6eb42b69635222703a94abd/"
+  }
 ]

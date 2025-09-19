@@ -1,23 +1,24 @@
 [
-{
-  "id": "70495",
-  "title": "Bloons Battles",
-  "category": "Shooter",
-  "description": "Pop all the balloons while avoiding obstacles. Aim carefully and unlock all levels.",
-  "instructions": "Use mouse or touch to aim and shoot.",
-  "playLink": "https://html5.gamemonetize.com/ydihbdfz3qxevtauhuefdttmlgmxxzvo/",
-  "image": "https://img.gamemonetize.com/ydihbdfz3qxevtauhuefdttmlgmxxzvo/512x384.jpg",
-  "thumbnail": "https://img.gamemonetize.com/ydihbdfz3qxevtauhuefdttmlgmxxzvo/512x384.jpg",
-  "video": ""
-},
-{
-  "id": "cowboy-shooter-2",
-  "title": "Cowboy Shooter 2",
-  "category": "Shooting",
-  "description": "Step into the Wild West and test your aim in this fast-paced cowboy shooting game! Break bottles, hit targets, and score as high as possible before the clock runs out.",
-  "instructions": "PC: Move mouse to aim, Left Click to shoot. Mobile: Use on-screen buttons to aim and shoot.",
-  "tips": "Focus on accuracy before speed. Breaking combo targets gives you extra score.",
-  "thumb": "https://img.gamemonetize.com/jc2acrnxxo170e3q4gaovsvhle6dt7wj/512x384.jpg",
-  "playLink": "https://html5.gamemonetize.com/jc2acrnxxo170e3q4gaovsvhle6dt7wj/"
-}
+  {
+    "slug": "bloons-battles",
+    "id": "70495",
+    "title": "Bloons Battles",
+    "category": "Shooter",
+    "description": "Pop all the balloons while avoiding obstacles. Aim carefully and unlock all levels.",
+    "instructions": "Use mouse or touch to aim and shoot.",
+    "tips": "Focus on popping balloons quickly for bonus points.",
+    "thumb": "https://img.gamemonetize.com/ydihbdfz3qxevtauhuefdttmlgmxxzvo/512x384.jpg",
+    "playLink": "https://html5.gamemonetize.com/ydihbdfz3qxevtauhuefdttmlgmxxzvo/"
+  },
+  {
+    "slug": "cowboy-shooter-2",
+    "id": "cowboy-shooter-2",
+    "title": "Cowboy Shooter 2",
+    "category": "Shooting",
+    "description": "Step into the Wild West and test your aim in this fast-paced cowboy shooting game! Break bottles, hit targets, and score as high as possible before the clock runs out.",
+    "instructions": "PC: Move mouse to aim, Left Click to shoot. Mobile: Use on-screen buttons to aim and shoot.",
+    "tips": "Focus on accuracy before speed. Breaking combo targets gives you extra score.",
+    "thumb": "https://img.gamemonetize.com/jc2acrnxxo170e3q4gaovsvhle6dt7wj/512x384.jpg",
+    "playLink": "https://html5.gamemonetize.com/jc2acrnxxo170e3q4gaovsvhle6dt7wj/"
+  }
 ]

@@ -1,15 +1,14 @@
 [
-{
-  "id": "billiard-diamond",
-  "title": "Billiard Diamond",
-  "category": "Sports",
-  "description": "Challenge your skills in Billiard Diamond! Line up your shots, use precision, and sink all the balls to become the pool master.",
-  "instructions": "Use your mouse or touch to aim and drag to set the power. Release to shoot the cue ball.",
-  "tips": "Plan your shots ahead. Use the table edges for trick shots. Control your power for better accuracy.",
-  "faq": "Q: Can I play Billiard Diamond with friends? A: Currently, it's a single-player game. Q: Does it work on mobile? A: Yes, it's optimized for both desktop and mobile.",
-  "playLink": "https://html5.gamedistribution.com/d915f03f46804091933c3be8d17273be/",
-  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/image/billiard-diamond.jpg",
-  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/billiard-diamond.jpg",
-  "video": ""
-}
+  {
+    "slug": "billiard-diamond",
+    "id": "billiard-diamond",
+    "title": "Billiard Diamond",
+    "category": "Sports",
+    "description": "Challenge your skills in Billiard Diamond! Line up your shots, use precision, and sink all the balls to become the pool master.",
+    "instructions": "Use your mouse or touch to aim and drag to set the power. Release to shoot the cue ball.",
+    "tips": "Plan your shots ahead. Use the table edges for trick shots. Control your power for better accuracy.",
+    "faq": "Q: Can I play Billiard Diamond with friends? A: Currently, it's a single-player game. Q: Does it work on mobile? A: Yes, it's optimized for both desktop and mobile.",
+    "thumb": "https://cdn.jsdelivr.net/gh/jasoomi-11/assets/thumb/billiard-diamond.jpg",
+    "playLink": "https://html5.gamedistribution.com/d915f03f46804091933c3be8d17273be/"
+  }
 ]

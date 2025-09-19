@@ -1,14 +1,13 @@
 [
-  
-  
   {
-  "id": "stickman-gunner",
-  "title": "Stickman Gunner",
-  "category": "Action",
-  "description": "Run through levels with your gun blazing! Stickman Gunner challenges you to blast obstacles, dodge enemies, and shoot down foes as you push forward.",
-  "instructions": "Use swipe or arrow keys to move, tap/click to shoot. Keep running while eliminating threats ahead.",
-  "tips": "Aim ahead, manage ammo, and keep moving—standing still gets you in trouble.",
-  "thumb": "https://img.gamedistribution.com/<stickman-gunner-thumb-placeholder>.jpg",
-  "playLink": "https://html5.gamedistribution.com/<stickman-gunner-game-id>/"
-}
+    "id": "stickman-gunner",
+    "slug": "stickman-gunner",
+    "title": "Stickman Gunner",
+    "category": "Action",
+    "description": "Run through levels with your gun blazing! Stickman Gunner challenges you to blast obstacles, dodge enemies, and shoot down foes as you push forward.",
+    "instructions": "Use swipe or arrow keys to move, tap/click to shoot. Keep running while eliminating threats ahead.",
+    "tips": "Aim ahead, manage ammo, and keep moving—standing still gets you in trouble.",
+    "thumb": "https://img.gamedistribution.com/<stickman-gunner-thumb-placeholder>.jpg",
+    "playLink": "https://html5.gamedistribution.com/<stickman-gunner-game-id>/"
+  }
 ]
