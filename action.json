@@ -14,6 +14,7 @@
 {
   "id": "70597",
   "title": "Rogue Runner",
+  "slug":"rogue-runner",
   "category": "Action",
   "description": "Become the most wanted fugitive in a relentless, high-octane Rogue Runner simulator. Outsmart and outdrive an ever-growing police force in a dynamic open world. Your driving skills are the only thing between freedom and capture. Weave through dense urban traffic, execute dangerous maneuvers, and use the environment to your advantage. Every smashed barrier and near-miss intensifies the pursuit. Feel the adrenaline surge as SWAT teams join the hunt, deploying spike strips and tactical units. How long can you survive with the entire city's law enforcement on your tail? Push your vehicle to its limits, master the streets, and defy capture in",
   "instructions": "Mouse click or tap to play",
@@ -25,7 +26,8 @@
 
 {
   "id": "cosmic-dash",
-  "title": "Cosmic Dash",
+  "title":"cosmic dash",
+  "slug":"cosmic-dash",
   "category": "Action",
   "description": "Blast through space in Cosmic Dash! Dodge obstacles, collect power-ups, and survive the endless galaxy in this fast-paced arcade adventure.",
   "instructions": "Use arrow keys or swipe on mobile to move your ship. Avoid asteroids and enemies while collecting stars and bonuses.",
