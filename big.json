@@ -37,6 +37,7 @@
     "slug": "flight-sim-air-traffic",
     "title": "Flight Sim: Air Traffic",
     "category": "Simulation",
+    "playsthisweek":930,
     "description": "Step into the role of an air traffic controller! Manage incoming and outgoing flights, prevent collisions, and keep the skies safe in this realistic simulation.",
     "instructions": "Use mouse or touch to guide planes, assign runways, and control traffic. Ensure safe landings and departures.",
     "tips": "Keep an eye on flight paths, avoid crossing routes, and handle priority flights first to maintain smooth operations.",
