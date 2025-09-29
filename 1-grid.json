@@ -1,0 +1,32 @@
+[
+  {
+    "id": "color-hoop-sort",
+    "name": "Color Hoop Sort",
+    "title": "Color Hoop Sort",
+    "slug": "color-hoop-sort",
+    "playLink": "https://html5.gamedistribution.com/69953734f7b945618a0479a3db329c8e/?gd_sdk_referrer_url=https://www.example.com/games/color-hoop-sort",
+    "thumbnail": "https://acc.gamedistribution.com/games/color-hoop-sort/thumb.png",
+    "image": "https://acc.gamedistribution.com/games/color-hoop-sort/thumb.png",
+    "video": ""
+  },
+  {
+    "id": "strange-packages",
+    "name": "Strange Packages",
+    "title": "Strange Packages",
+    "slug": "strange-packages",
+    "playLink": "https://html5.gamedistribution.com/f618546bbe6a42b4850156aebb8c202e/?gd_sdk_referrer_url=https://www.example.com/games/strange-packages",
+    "thumbnail": "https://acc.gamedistribution.com/games/strange-packages/thumb.png",
+    "image": "https://acc.gamedistribution.com/games/strange-packages/thumb.png",
+    "video": ""
+  },
+  {
+    "id": "metaxis",
+    "name": "Metaxis",
+    "title": "Metaxis",
+    "slug": "metaxis",
+    "playLink": "https://html5.gamedistribution.com/2aa46992a4c24c0daf581f7689cddecb/?gd_sdk_referrer_url=https://www.example.com/games/metaxis",
+    "thumbnail": "https://img.gamedistribution.com/2aa46992a4c24c0daf581f7689cddecb-512x384.jpg",
+    "image": "https://img.gamedistribution.com/2aa46992a4c24c0daf581f7689cddecb-512x384.jpg",
+    "video": ""
+  }
+]
