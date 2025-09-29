@@ -8,5 +8,14 @@
   "thumbnail": "https://acc.gamedistribution.com/games/color-hoop-sort/thumb.png",
   "image": "https://acc.gamedistribution.com/games/color-hoop-sort/thumb.png",
   "video": ""
+},
+{
+  "id": "strange-packages",
+  "name": "Strange Packages",
+  "slug": "strange-packages",
+  "playLink": "https://html5.gamedistribution.com/f618546bbe6a42b4850156aebb8c202e/?gd_sdk_referrer_url=https://www.example.com/games/strange-packages",
+  "thumbnail": "https://acc.gamedistribution.com/games/strange-packages/thumb.png",
+  "image": "https://acc.gamedistribution.com/games/strange-packages/thumb.png",
+  "video": ""
 }
 ]
