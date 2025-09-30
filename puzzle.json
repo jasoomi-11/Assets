@@ -28,5 +28,14 @@
     "thumbnail": "https://img.gamedistribution.com/2aa46992a4c24c0daf581f7689cddecb-512x384.jpg",
     "image": "https://img.gamedistribution.com/2aa46992a4c24c0daf581f7689cddecb-512x384.jpg",
     "video": ""
-  }
+  },
+  {
+  "slug": "ship-out",
+  "name": "Ship Out",
+  "title": "Ship Out",
+  "playLink": "https://html5.gamedistribution.com/233db5ed35e349469befd32b73b157a9/?gd_sdk_referrer_url=https://www.example.com/games/ship-out",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/shipout.png",
+  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/shipout.png",
+  "video": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/video/shipout.mp4"
+}
 ]
