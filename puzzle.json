@@ -37,5 +37,15 @@
   "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/shipout.png",
   "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/shipout.png",
   "video": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/video/shipout.mp4"
+},
+{
+  "id": "snake-out",
+  "name": "Snake Out",
+  "title": "Snake Out",
+  "slug": "snake-out",
+  "playLink": "https://html5.gamedistribution.com/f2d91c8a392342a397abc1942912c67c/?gd_sdk_referrer_url=https://www.example.com/games/snake-out",
+  "thumbnail": "https://img.gamedistribution.com/f2d91c8a392342a397abc1942912c67c-512x384.jpg",
+  "image": "https://img.gamedistribution.com/f2d91c8a392342a397abc1942912c67c-512x384.jpg",
+  "video": ""
 }
 ]
