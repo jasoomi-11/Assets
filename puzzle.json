@@ -7,7 +7,8 @@
     "playLink": "https://html5.gamedistribution.com/69953734f7b945618a0479a3db329c8e/?gd_sdk_referrer_url=https://www.example.com/games/color-hoop-sort",
     "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/colorhoop.png",
     "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/colorhoop.png",
-    "video": ""
+    "video": "",
+    "link": "color-hoop-sort.html"
   },
   {
     "id": "strange-packages",
@@ -17,7 +18,8 @@
     "playLink": "https://html5.gamedistribution.com/f618546bbe6a42b4850156aebb8c202e/?gd_sdk_referrer_url=https://www.example.com/games/strange-packages",
     "thumbnail": "https://acc.gamedistribution.com/games/strange-packages/thumb.png",
     "image": "https://acc.gamedistribution.com/games/strange-packages/thumb.png",
-    "video": ""
+    "video": "",
+    "link": "strange-packages.html"
   },
   {
     "id": "metaxis",
@@ -27,45 +29,51 @@
     "playLink": "https://html5.gamedistribution.com/2aa46992a4c24c0daf581f7689cddecb/?gd_sdk_referrer_url=https://www.example.com/games/metaxis",
     "thumbnail": "https://img.gamedistribution.com/2aa46992a4c24c0daf581f7689cddecb-512x384.jpg",
     "image": "https://img.gamedistribution.com/2aa46992a4c24c0daf581f7689cddecb-512x384.jpg",
-    "video": ""
+    "video": "",
+    "link": "metaxis.html"
   },
   {
-  "slug": "ship-out",
-  "name": "Ship Out",
-  "title": "Ship Out",
-  "playLink": "https://html5.gamedistribution.com/233db5ed35e349469befd32b73b157a9/?gd_sdk_referrer_url=https://www.example.com/games/ship-out",
-  "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/shipout.png",
-  "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/shipout.png",
-  "video": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/video/shipout.mp4"
-},
-{
-  "id": "snake-out",
-  "name": "Snake Out",
-  "title": "Snake Out",
-  "slug": "snake-out",
-  "playLink": "https://html5.gamedistribution.com/f2d91c8a392342a397abc1942912c67c/?gd_sdk_referrer_url=https://www.example.com/games/snake-out",
-  "thumbnail": "https://img.gamedistribution.com/f2d91c8a392342a397abc1942912c67c-512x384.jpg",
-  "image": "https://img.gamedistribution.com/f2d91c8a392342a397abc1942912c67c-512x384.jpg",
-  "video": ""
-},
-{
-  "id": "outside",
-  "name": "Outside",
-  "title": "Outside",
-  "slug": "outside",
-  "playLink": "https://html5.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5/?gd_sdk_referrer_url=https://www.example.com/games/outside",
-  "thumbnail": "https://img.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5-512x384.jpg",
-  "image": "https://img.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5-512x384.jpg",
-  "video": ""
-},
-{
-  "id": "emergency-jam",
-  "name": "Emergency Jam",
-  "title": "Emergency Jam - Play Free Online",
-  "slug": "emergency-jam",
-  "playLink": "https://html5.gamedistribution.com/de39260e780f439daa9d9573a4723519/?gd_sdk_referrer_url=https://www.example.com/games/emergency-jam",
-  "thumbnail": "https://img.gamedistribution.com/de39260e780f439daa9d9573a4723519-512x384.jpg",
-  "image": "https://img.gamedistribution.com/de39260e780f439daa9d9573a4723519-512x384.jpg",
-  "video": ""
-}
+    "id":"ship-out",
+    "slug": "ship-out",
+    "name": "Ship Out",
+    "title": "Ship Out",
+    "playLink": "https://html5.gamedistribution.com/233db5ed35e349469befd32b73b157a9/?gd_sdk_referrer_url=https://www.example.com/games/ship-out",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/shipout.png",
+    "image": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/thumb/shipout.png",
+    "video": "https://cdn.jsdelivr.net/gh/jasoomi-11/Assets@main/video/shipout.mp4",
+    "link": "ship-out.html"
+  },
+  {
+    "id": "snake-out",
+    "name": "Snake Out",
+    "title": "Snake Out",
+    "slug": "snake-out",
+    "playLink": "https://html5.gamedistribution.com/f2d91c8a392342a397abc1942912c67c/?gd_sdk_referrer_url=https://www.example.com/games/snake-out",
+    "thumbnail": "https://img.gamedistribution.com/f2d91c8a392342a397abc1942912c67c-512x384.jpg",
+    "image": "https://img.gamedistribution.com/f2d91c8a392342a397abc1942912c67c-512x384.jpg",
+    "video": "",
+    "link": "snake-out.html"
+  },
+  {
+    "id": "outside",
+    "name": "Outside",
+    "title": "Outside",
+    "slug": "outside",
+    "playLink": "https://html5.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5/?gd_sdk_referrer_url=https://www.example.com/games/outside",
+    "thumbnail": "https://img.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5-512x384.jpg",
+    "image": "https://img.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5-512x384.jpg",
+    "video": "",
+    "link": "outside.html"
+  },
+  {
+    "id": "emergency-jam",
+    "name": "Emergency Jam",
+    "title": "Emergency Jam - Play Free Online",
+    "slug": "emergency-jam",
+    "playLink": "https://html5.gamedistribution.com/de39260e780f439daa9d9573a4723519/?gd_sdk_referrer_url=https://www.example.com/games/emergency-jam",
+    "thumbnail": "https://img.gamedistribution.com/de39260e780f439daa9d9573a4723519-512x384.jpg",
+    "image": "https://img.gamedistribution.com/de39260e780f439daa9d9573a4723519-512x384.jpg",
+    "video": "",
+    "link": "emergency-jam.html"
+  }
 ]
