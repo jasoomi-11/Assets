@@ -47,5 +47,25 @@
   "thumbnail": "https://img.gamedistribution.com/f2d91c8a392342a397abc1942912c67c-512x384.jpg",
   "image": "https://img.gamedistribution.com/f2d91c8a392342a397abc1942912c67c-512x384.jpg",
   "video": ""
+},
+{
+  "id": "outside",
+  "name": "Outside",
+  "title": "Outside",
+  "slug": "outside",
+  "playLink": "https://html5.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5/?gd_sdk_referrer_url=https://www.example.com/games/outside",
+  "thumbnail": "https://img.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5-512x384.jpg",
+  "image": "https://img.gamedistribution.com/5f0179bde2b543d5900d20792978a3a5-512x384.jpg",
+  "video": ""
+},
+{
+  "id": "emergency-jam",
+  "name": "Emergency Jam",
+  "title": "Emergency Jam - Play Free Online",
+  "slug": "emergency-jam",
+  "playLink": "https://html5.gamedistribution.com/de39260e780f439daa9d9573a4723519/?gd_sdk_referrer_url=https://www.example.com/games/emergency-jam",
+  "thumbnail": "https://img.gamedistribution.com/de39260e780f439daa9d9573a4723519-512x384.jpg",
+  "image": "https://img.gamedistribution.com/de39260e780f439daa9d9573a4723519-512x384.jpg",
+  "video": ""
 }
 ]
